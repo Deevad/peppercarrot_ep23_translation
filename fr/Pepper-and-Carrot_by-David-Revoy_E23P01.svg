@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P01.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4367"
+       x="-0.0043557762"
+       width="1.0087116"
+       y="-0.020747933"
+       height="1.0414959"
+       inkscape:label="graphic-blending">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59122338"
+         id="feGaussianBlur4369" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4367-7"
+       x="-0.0043557761"
+       width="1.0087116"
+       y="-0.020747934"
+       height="1.0414959"
+       inkscape:label="graphic-blending">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59122338"
+         id="feGaussianBlur4369-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4367-7-1"
+       x="-0.0043557761"
+       width="1.0087116"
+       y="-0.020747934"
+       height="1.0414959"
+       inkscape:label="graphic-blending">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59122338"
+         id="feGaussianBlur4369-9-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9"
+         operator="dilate"
+         radius="3"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4289"
+       x="-0.0076879989"
+       width="1.015376"
+       y="-0.012777842"
+       height="1.0255557">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.69527307"
+         id="feGaussianBlur4291" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4367-7-3"
+       x="-0.0043557761"
+       width="1.0087116"
+       y="-0.020747934"
+       height="1.0414959"
+       inkscape:label="graphic-blending">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59122338"
+         id="feGaussianBlur4369-9-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4367-7-3-9"
+       x="-0.0043557761"
+       width="1.0087116"
+       y="-0.020747934"
+       height="1.0414959"
+       inkscape:label="graphic-blending">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59122338"
+         id="feGaussianBlur4369-9-5-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4367-7-3-7"
+       x="-0.0043557761"
+       width="1.0087116"
+       y="-0.020747934"
+       height="1.0414959"
+       inkscape:label="graphic-blending">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59122338"
+         id="feGaussianBlur4369-9-5-9" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.40000001"
+     inkscape:cx="1272.099"
+     inkscape:cy="2061.7457"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P01.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P01.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="153.48633"
+       y="177.83878"
+       id="text4246"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;text-align:start;text-anchor:start"
+         x="153.48633"
+         y="177.83878"
+         id="tspan4252">Marché de Komona</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;text-align:start;text-anchor:start"
+         x="153.48633"
+         y="234.08878"
+         id="tspan4144">une semaine plus tard</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.50649071px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.7;filter:url(#filter4367);"
+       x="373.74872"
+       y="1025.2651"
+       id="text4246-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#784421;"
+         x="373.74872"
+         y="1025.2651"
+         id="tspan4144-7">Célébrités</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.14299999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.78753948;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4289)"
+       x="-279.06573"
+       y="1481.1207"
+       id="text4246-36"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.95046329,-0.58606405,0.55140109,1.0160873,-84.69535,-224.92049)"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;text-align:start;text-anchor:start;stroke:#000000;stroke-width:3.78753948;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-279.06573"
+         y="1481.1207"
+         id="tspan4144-5">50 000 Ko</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.50649071px;line-height:87.99999952%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#c8b7b7;fill-opacity:1;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-3-9)"
+       x="1000.265"
+       y="1716.373"
+       id="text4246-3-3-6-2"
+       sodipodi:linespacing="88%"
+       transform="matrix(0.72899519,0,0,0.71822761,-201.60085,417.74499)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:87.99999952%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#c8b7b7;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1009.6992"
+         y="1716.373"
+         id="tspan4144-7-6-2-7">La victoire </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:87.99999952%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#c8b7b7;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1800.5444"
+         id="tspan4341">de Saffran</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.50649071px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7)"
+       x="1064.7037"
+       y="1024.8058"
+       id="text4246-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1064.7037"
+         y="1024.8058"
+         id="tspan4144-7-6">La Mode</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.50649071px;line-height:68.00000072%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#c8b7b7;fill-opacity:1;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-3-7)"
+       x="1000.265"
+       y="1716.373"
+       id="text4246-3-3-6-20"
+       sodipodi:linespacing="68.000001%"
+       transform="matrix(0.72899519,0,0,0.71822761,501.77652,427.51874)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:68.00000072%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#c8b7b7;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1716.373"
+         id="tspan4426">Le Phœnomène</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:68.00000072%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#c8b7b7;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1781.4146"
+         id="tspan4430">Saffran</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.50649071px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-1)"
+       x="1858.3196"
+       y="1029.2672"
+       id="text4246-3-3-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1858.3196"
+         y="1029.2672"
+         id="tspan4144-7-6-3">Chic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.50649071px;line-height:68.00000072%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#c8b7b7;fill-opacity:1;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-3)"
+       x="1000.265"
+       y="1716.373"
+       id="text4246-3-3-6"
+       sodipodi:linespacing="68.000001%"
+       transform="matrix(0.72899519,0,0,0.71822761,1188.2249,432.39136)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:68.00000072%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#c8b7b7;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1009.6992"
+         y="1716.373"
+         id="tspan4391">Special </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:68.00000072%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#c8b7b7;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1781.4146"
+         id="tspan4395">Saffran</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.1487186;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.55131378,-1.1747688,0.21584014,1.4415375,276.92641,1516.4447)"><tspan
+         sodipodi:role="line"
+         id="tspan4582"
+         x="787.65729"
+         y="1584.5073"
+         style="font-size:70px;line-height:100%;letter-spacing:4.88345098px;fill:#ffffff;stroke:#ffffff;stroke-width:2.1487186;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-size:67.55827332px;line-height:100%;letter-spacing:4.88345098px;stroke:#ffffff;stroke-width:2.1487186;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="tspan4439"><tspan
+   style="font-size:79.76689911px"
+   id="tspan4441">P</tspan>A<tspan
+   style="font-size:55.34964371px"
+   id="tspan4443">F</tspan></tspan><tspan
+           style="font-size:80.40014648px;line-height:100%;letter-spacing:4.88345098px;stroke:#ffffff;stroke-width:2.1487186;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="tspan4617">!</tspan></tspan></text>
+  </g>
+</svg>
