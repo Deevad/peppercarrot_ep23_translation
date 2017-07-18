@@ -1,4 +1,5 @@
 # Pepper&Carrot translation project
+# == WARNING: don't translate now, still ALPHA (thanks!) ==
 # Episode 23:
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
