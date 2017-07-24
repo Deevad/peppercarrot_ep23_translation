@@ -98,9 +98,9 @@
      inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.30245748"
-     inkscape:cx="164.88286"
-     inkscape:cy="1614.084"
+     inkscape:zoom="0.3478261"
+     inkscape:cx="1438.8013"
+     inkscape:cy="963.37632"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -113,11 +113,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -125,13 +125,13 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 114.52179,2687.2291 c 3.73825,-109.0439 230.2314,-136.1746 326.11829,-135.3936 129.69549,1.0564 370.04246,2.8463 432.28031,50.039 94.54813,71.6926 52.15102,150.808 17.38322,178.0786 -46.55174,36.5135 -128.62298,48.2696 -226.43861,60.5958 -121.45764,15.3053 -377.06513,11.3446 -435.41738,-12.5697 -59.35391,-24.3247 -117.66408,-31.7062 -113.92583,-140.7501 z"
+       d="m 44.608326,2625.361 c 6.200649,-116.2329 248.107004,-121.5365 357.125064,-120.7852 147.45655,1.0161 438.27186,10.2994 509.03282,55.6947 107.49599,68.9621 61.24328,152.6258 21.71423,178.8577 -52.92673,35.1229 -161.84089,38.8699 -273.05182,50.7266 -138.09057,14.7224 -420.90018,-4.2104 -487.24345,-27.2139 C 104.70309,2739.2427 38.407678,2741.594 44.608326,2625.361 Z"
        id="path3100"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 813.55427,2788.5594 c 42.3095,44.3679 114.2249,60.183 138.0391,62.3917 -65.2086,7.0611 -146.76954,-20.7309 -173.92201,-52.007 -27.15253,-31.2761 35.88291,-10.3847 35.88291,-10.3847 z"
+       d="m 804.13357,2748.8096 c 42.26082,44.4143 114.15883,60.3083 137.97059,62.5431 -65.2163,6.9896 -146.74671,-20.8919 -173.86487,-52.1977 -27.11821,-31.3059 35.89428,-10.3454 35.89428,-10.3454 z"
        id="path4480"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsc" />
@@ -183,29 +183,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="528.03223"
-       y="2630.3386"
+       x="511.01901"
+       y="2603.8735"
        id="text4246"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="528.03223"
-         y="2630.3386"
-         id="tspan4252">Vous avez appelé le génie</tspan><tspan
+         x="511.01901"
+         y="2603.8735"
+         id="tspan4230">Je suis le Génie du Succès,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="528.03223"
-         y="2686.5886"
-         id="tspan4220">du Succès, pack tout-en-un, service</tspan><tspan
+         x="511.01901"
+         y="2660.1235"
+         id="tspan4179">à votre service vingt-quatre heures</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="528.03223"
-         y="2742.8386"
-         id="tspan4222">vingt-quatre heures sur vingt-quatre,</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="528.03223"
-         y="2799.0886"
-         id="tspan4230"> sept jours sur sept !</tspan></text>
+         x="518.9292"
+         y="2716.3735"
+         id="tspan4183"> sur vingt-quatre, sept jours sur sept !* </tspan></text>
   </g>
 </svg>

@@ -43,13 +43,13 @@
      inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.30245748"
-     inkscape:cx="2140.3312"
-     inkscape:cy="1766.0565"
+     inkscape:zoom="0.3478261"
+     inkscape:cx="923.18882"
+     inkscape:cy="1065.9263"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -70,13 +70,13 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 161.51946,2075.8211 c 5.63347,-56.9398 35.20917,-92.6927 64.78488,-96.6653 29.57569,-3.9725 318.29087,0 346.4582,9.2693 28.16735,9.2692 69.00998,47.6705 67.60161,76.8025 -1.40837,29.132 3.91303,72.9665 -39.43427,107.2587 -30.81288,24.3761 -208.43827,18.5385 -238.01398,18.5385 -29.5757,0 -111.08129,12.8841 -157.73707,-19.8627 -47.08633,-33.0489 -43.65937,-95.341 -43.65937,-95.341 z"
+       d="m 144.27345,2081.3114 c 6.03927,-58.4563 37.74545,-95.1613 69.45164,-99.2397 31.70617,-4.0783 341.21887,0 371.41523,9.5161 30.19638,9.5161 73.9811,48.9401 72.47127,78.848 -1.50982,29.9078 4.19491,74.9097 -42.2749,110.1152 -33.03248,25.0253 -223.45307,19.0323 -255.15926,19.0323 -31.70618,0 -119.083,13.2272 -169.09962,-20.3917 -50.47818,-33.9291 -46.80436,-97.8802 -46.80436,-97.8802 z"
        id="path4272"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssc" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1357.304,2092.3591 c -5.3289,57.7812 -45.9286,91.639 -78.4406,96.1581 -32.512,4.519 -359.12468,8.1789 -390.28923,-0.7413 -31.16444,-8.92 -93.88951,-48.5721 -92.78632,-78.1099 1.10329,-29.5379 1.7155,-72.4294 48.92863,-107.8961 33.56089,-25.2111 239.28342,-22.2658 271.85632,-22.7602 32.5732,-0.4943 142.1523,-0.6161 194.04,31.7807 52.3665,32.6956 46.6912,81.5687 46.6912,81.5687 z"
+       d="m 1345.8132,2086.9463 c -5.0561,60.8814 -43.5778,96.5557 -74.4258,101.3173 -30.8479,4.7615 -340.74358,8.6177 -370.31304,-0.7811 -29.56935,-9.3986 -89.08397,-51.1781 -88.03724,-82.3007 1.04682,-31.1227 1.62769,-76.3154 46.42431,-113.685 31.84314,-26.5638 227.03617,-23.4604 257.94187,-23.9814 30.906,-0.5208 134.8766,-0.6491 184.1085,33.4859 49.6862,34.4498 44.3014,85.945 44.3014,85.945 z"
        id="path4272-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssc" />
@@ -156,25 +156,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="407.96164"
-       y="2039.5333"
+       x="390.71164"
+       y="2048.1582"
        id="text4246"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="415.8718"
-         y="2039.5333"
-         id="tspan4252">Tu vois, je crois </tspan><tspan
+         x="390.71164"
+         y="2048.1582"
+         id="tspan4198">Tu vois Carrot,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="407.96164"
-         y="2095.7832"
-         id="tspan4196">que c'est ça de</tspan><tspan
+         x="390.71164"
+         y="2104.4082"
+         id="tspan4167">  je pense que c'est ça,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="407.96164"
-         y="2152.0332"
-         id="tspan4198">grandir, Carrot !</tspan></text>
+         x="390.71164"
+         y="2160.6582"
+         id="tspan4169"> grandir, au final.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -223,6 +223,6 @@
          style="font-size:45px"
          x="2118.6797"
          y="2178.9568"
-         id="tspan4270">le succès</tspan></text>
+         id="tspan4270">le succès !</tspan></text>
   </g>
 </svg>

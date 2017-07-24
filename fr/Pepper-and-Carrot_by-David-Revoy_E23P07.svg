@@ -253,12 +253,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000001"
-     inkscape:cx="1307.724"
+     inkscape:cx="871.47401"
      inkscape:cy="2568.1641"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -267,11 +267,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -279,12 +279,12 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1331.1331,298.11287 c -55.0323,79.31169 -11.0539,197.61637 84.9931,228.28126 68.2651,23.24965 146.2362,29.46263 217.0344,13.54149 67.5709,-16.62706 130.571,-65.01042 138.7032,-133.03662 15.7907,-53.35246 -14.1721,-110.27587 -67.3464,-133.611 -77.58,-36.23541 -168.2695,-25.21777 -251.7677,-20.95077 -43.6298,5.50117 -88.0026,18.15923 -121.6166,45.77564 z"
+       d="m 1361.1331,323.11287 c -55.0323,79.31169 -11.0539,197.61637 84.9931,228.28126 68.2651,23.24965 146.2362,29.46263 217.0344,13.54149 67.5709,-16.62706 130.571,-65.01042 138.7032,-133.03662 15.7907,-53.35246 -14.1721,-110.27587 -67.3464,-133.611 -77.58,-36.23541 -168.2695,-25.21777 -251.7677,-20.95077 -43.6298,5.50117 -88.0026,18.15923 -121.6166,45.77564 z"
        id="path4347"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1768.7186,639.51688 c -95.2368,5.45193 -124.0396,-48.1856 -136.4346,-115.06533 -10.2022,-55.04808 -59.1765,-60.82025 -49.3137,-11.50654 9.8627,49.31372 72.3268,164.37906 185.7483,126.57187 z"
+       d="m 1765.3654,643.65162 c -95.1268,-7.11808 -116.6267,-64.07718 -120.1201,-132.00605 -2.8753,-55.91161 -50.6654,-68.07329 -47.3725,-17.89088 3.2928,50.1824 50.0846,172.46208 167.4926,149.89693 z"
        id="path4360"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssc" />
@@ -369,29 +369,29 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1543.6196"
-       y="333.10355"
+       x="1573.6196"
+       y="358.10355"
        id="text4246"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1543.6196"
-         y="333.10355"
+         x="1573.6196"
+         y="358.10355"
          id="tspan4252">La chance finira</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1543.6196"
-         y="389.35355"
+         x="1573.6196"
+         y="414.35355"
          id="tspan4144">bien par nous</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1543.6196"
-         y="445.60355"
+         x="1573.6196"
+         y="470.60355"
          id="tspan4146">sourire à nous</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1543.6196"
-         y="501.85355"
+         x="1573.6196"
+         y="526.85352"
          id="tspan4148">aussi !</tspan></text>
     <text
        xml:space="preserve"

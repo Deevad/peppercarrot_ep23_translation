@@ -43,9 +43,9 @@
      inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.60835002"
-     inkscape:cx="682.70632"
-     inkscape:cy="1325.2819"
+     inkscape:zoom="0.2630065"
+     inkscape:cx="520.71969"
+     inkscape:cy="1591.2421"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -58,25 +58,26 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="speechbubbles">
+     inkscape:label="speechbubbles"
+     style="display:inline">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="M 197.76755,472.18672 C 98.600683,460.14258 68.373534,412.30337 68.536988,327.66348 68.689434,248.72367 61.313166,99.77799 87.745663,87.102376 114.02275,74.501289 187.01312,69.910399 282.63954,70.55094 c 87.0042,0.582787 235.87926,-29.963742 289.99562,121.61601 26.40143,73.95034 14.624,199.23007 -98.2139,256.26885 -109.54214,55.37279 -276.65371,23.75092 -276.65371,23.75092 z"
+       d="M 212.88572,475.06172 C 110.96021,463.01758 79.892206,415.17837 80.060207,330.53848 80.216894,251.59867 72.635432,102.65299 99.803229,89.977376 126.8113,77.376289 201.83212,72.785399 300.11868,73.42594 389.54317,74.008727 542.55965,43.462198 598.18143,195.04195 625.31729,268.99229 613.21224,394.27202 497.2354,451.3108 384.64601,506.68359 212.88572,475.06172 212.88572,475.06172 Z"
        id="path3970"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 616.06411,547.0358 c -101.4862,82.90422 -273.01217,-15.72321 -290.16477,-62.89286 -17.1526,-47.16964 17.1526,-71.46915 17.1526,-71.46915 l 30.01704,17.1526 c 0,0 -17.15259,-5.71753 -1.42938,37.16396 15.72322,42.88149 138.65016,137.22077 244.42451,80.04545 z"
+       d="M 599.21792,525.82095 C 484.89991,589.88304 333.06159,463.02228 324.3431,413.59379 c -8.7185,-49.42848 29.27876,-67.41517 29.27876,-67.41517 l 26.59028,22.09505 c 0,0 -15.9022,-8.60358 -7.84832,36.35392 8.05389,44.9575 112.77168,159.17272 226.8541,121.19336 z"
        id="path4367"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccsc" />
@@ -117,7 +118,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 2248.1034,1743.4267 c 63.7684,10.8082 84.3039,43.0076 107.0011,81.0615 16.0939,26.983 12.9698,87.5463 2.1617,108.0818 -10.8082,20.5356 -74.407,38.7873 -114.5668,45.3944 -60.5606,9.9635 -168.3929,9.6438 -216.1639,3.2425 -44.7364,-5.9947 -90.7887,-11.889 -108.0818,-44.3136 -17.2931,-32.4245 -11.8891,-92.9504 -5.4041,-110.2435 6.4849,-17.2931 28.1013,-68.0916 45.3944,-72.4149 17.2931,-4.3233 281.0129,-10.8082 281.0129,-10.8082 z"
+       d="m 2248.1034,1743.4267 c 63.7684,10.8082 84.3039,43.0076 107.0011,81.0615 16.0939,26.983 22.667,74.8123 -6.4146,116.6581 -26.3031,37.8479 -84.4127,35.9285 -124.5725,42.5356 -60.5606,9.9635 -149.8109,3.9263 -197.5819,-2.475 -44.7364,-5.9947 -90.7887,-11.889 -108.0818,-44.3136 -17.2931,-32.4245 -11.8891,-92.9504 -5.4041,-110.2435 6.4849,-17.2931 28.1013,-68.0916 45.3944,-72.4149 17.2931,-4.3233 281.0129,-10.8082 281.0129,-10.8082 z"
        id="path4423"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssscc" />
@@ -128,7 +129,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 127.54434,2546.9663 c -4.39055,-102.0768 -39.450077,-227.5784 226.91726,-267.6617 213.32799,-32.1018 483.93303,-29.5918 463.29844,184.6593 -20.07996,208.4923 -93.87456,189.0892 -217.73505,218.6937 -207.70355,49.6442 -452.59377,-19.4982 -472.48065,-135.6913 z"
+       d="m 127.54434,2546.9663 c -4.39055,-102.0768 -41.841566,-249.5807 226.91726,-267.6617 213.32799,-14.3518 474.20566,8.3333 453.57107,214.9222 -20.81748,208.42 -132.78404,196.655 -236.10897,205.7239 -212.73614,18.6721 -424.49248,-36.7913 -444.37936,-152.9844 z"
        id="path3525-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -146,35 +147,35 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="307.38004"
-       y="185.5562"
+       x="327.50504"
+       y="176.9312"
        id="text4246"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="307.38004"
-         y="185.5562"
-         id="tspan4252">Il me faudra</tspan><tspan
+         x="335.41519"
+         y="176.9312"
+         id="tspan4194">Juste une petite </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="307.38004"
-         y="241.8062"
-         id="tspan4144">juste une toute</tspan><tspan
+         x="327.50504"
+         y="233.1812"
+         id="tspan4199">signature en bas</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="307.38004"
-         y="298.05621"
-         id="tspan4146">petite signature</tspan><tspan
+         x="327.50504"
+         y="289.43121"
+         id="tspan4201">de ce document, et</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="307.38004"
-         y="354.30621"
-         id="tspan4148">en bas de ce</tspan><tspan
+         x="327.50504"
+         y="345.68121"
+         id="tspan4203">la porte de la Gloire</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="307.38004"
-         y="410.55621"
-         id="tspan4150">document.</tspan></text>
+         x="327.50504"
+         y="401.93121"
+         id="tspan4205"> vous sera ouverte !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -203,7 +204,7 @@
          style="font-size:45px"
          x="2061.8047"
          y="1674.8641"
-         id="tspan4225">Comme un</tspan><tspan
+         id="tspan4225">C'est quoi, ce</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2061.8047"
@@ -237,7 +238,7 @@
          style="font-size:45px"
          x="2023.913"
          y="1373.6519"
-         id="tspan4225-9">tout ?!</tspan></text>
+         id="tspan4225-9">mon problème ?!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
