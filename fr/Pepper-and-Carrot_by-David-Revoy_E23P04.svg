@@ -43,13 +43,13 @@
      inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40000002"
-     inkscape:cx="1064.4228"
-     inkscape:cy="905.74567"
-     inkscape:window-x="0"
+     inkscape:zoom="0.60835003"
+     inkscape:cx="1735.792"
+     inkscape:cy="3021.6129"
+     inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -70,7 +70,7 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1599.6416,261.8849 c 12.6233,-30.4125 47.6874,-56.67785 58.9081,-63.58978 11.2205,-6.91193 186.9796,-18.90597 213.6286,-18.90597 26.6488,0 184.3844,11.80612 203.123,28.58267 19.4483,17.41203 44.9292,63.58978 42.1241,84.32558 -2.8052,20.7358 -32.4939,89.85513 -61.9478,100.91422 -29.4541,11.05911 -183.737,19.35341 -213.1911,19.35341 -29.4539,0 -157.0881,-5.52954 -187.9446,-23.50057 -30.8566,-17.97102 -54.398,-59.49549 -54.398,-67.78982 0,-8.2943 -0.3023,-59.38974 -0.3023,-59.38974 z"
+       d="m 1624.2984,261.8849 c 11.6219,-30.4125 43.9041,-56.67785 54.2347,-63.58978 10.3303,-6.91193 172.1458,-18.90597 196.6807,-18.90597 24.5345,0 169.7564,11.80612 187.0084,28.58267 17.9054,17.41203 41.3648,63.58978 38.7822,84.32558 -2.5827,20.7358 -29.9161,89.85513 -57.0332,100.91422 -27.1174,11.05911 -169.1605,19.35341 -196.2779,19.35341 -27.1171,0 -144.6256,-5.52954 -173.0342,-23.50057 -28.4086,-17.97102 -50.0824,-59.49549 -50.0824,-67.78982 0,-8.2943 -0.2783,-59.38974 -0.2783,-59.38974 z"
        id="path4246"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssssc" />
@@ -143,12 +143,12 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.77793884px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1856.9244"
          y="238.83353"
-         id="tspan4148">*hormis les jours fériés</tspan><tspan
+         id="tspan4148">*Hors week-ends et</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.77793884px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1856.9244"
          y="283.55594"
-         id="tspan4175">et les week-ends, offre non</tspan><tspan
+         id="tspan4175">jours fériés, offre non</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.77793884px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1856.9244"
