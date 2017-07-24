@@ -39,35 +39,37 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1862"
+     inkscape:window-height="1022"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3478261"
-     inkscape:cx="923.18882"
-     inkscape:cy="1065.9263"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:cx="710.43883"
+     inkscape:cy="2215.9263"
+     inkscape:window-x="56"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P06.png"
+       sodipodi:absref="/home/vincent/Documents/perso/dev/peppercarrot_ep23_translation/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="speechbubbles">
+     inkscape:label="speechbubbles"
+     style="display:inline">
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 144.27345,2081.3114 c 6.03927,-58.4563 37.74545,-95.1613 69.45164,-99.2397 31.70617,-4.0783 341.21887,0 371.41523,9.5161 30.19638,9.5161 73.9811,48.9401 72.47127,78.848 -1.50982,29.9078 4.19491,74.9097 -42.2749,110.1152 -33.03248,25.0253 -223.45307,19.0323 -255.15926,19.0323 -31.70618,0 -119.083,13.2272 -169.09962,-20.3917 -50.47818,-33.9291 -46.80436,-97.8802 -46.80436,-97.8802 z"
@@ -100,56 +102,57 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="txt">
+     inkscape:label="txt"
+     style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.06229973px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.06229973px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="1954.752"
        y="1501.1776"
        id="text4246-8"
        sodipodi:linespacing="125%"
        transform="matrix(0.76133526,-0.51280204,0.4098681,1.0374126,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:41.48361969px;fill:#000000;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="font-size:41.48361969px;fill:#000000;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1954.752"
          y="1501.1776"
          id="tspan4150-8">Piou !</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.21674347px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.21674347px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="2086.8733"
        y="1374.3584"
        id="text4246-8-3"
        sodipodi:linespacing="125%"
        transform="matrix(0.8070703,-0.42305912,0.27884184,1.092883,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:38.3127861px;fill:#000000;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="font-size:38.3127861px;fill:#000000;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="2086.8733"
          y="1374.3584"
          id="tspan4150-8-6">Piou !</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.21674347px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.21674347px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="2137.4421"
        y="1412.3752"
        id="text4246-8-3-7"
        sodipodi:linespacing="125%"
        transform="matrix(0.8070703,-0.42305912,0.27884184,1.092883,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:38.3127861px;fill:#000000;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="font-size:38.3127861px;fill:#000000;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="2137.4421"
          y="1412.3752"
          id="tspan4150-8-6-5">Piou !</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.21674347px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.21674347px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="1869.3112"
        y="1652.55"
        id="text4246-8-3-3"
        sodipodi:linespacing="125%"
        transform="matrix(0.73266151,-0.54180126,0.44311163,1.0372069,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:38.3127861px;fill:#000000;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="font-size:38.3127861px;fill:#000000;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1869.3112"
          y="1652.55"
          id="tspan4150-8-6-56">Piou !</tspan></text>
@@ -167,14 +170,14 @@
          id="tspan4198">Tu vois Carrot,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="390.71164"
+         x="398.6218"
          y="2104.4082"
-         id="tspan4167">  je pense que c'est ça,</tspan><tspan
+         id="tspan4167">  je pense que </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="390.71164"
          y="2160.6582"
-         id="tspan4169"> grandir, au final.</tspan></text>
+         id="tspan4169">c'est ça grandir.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
