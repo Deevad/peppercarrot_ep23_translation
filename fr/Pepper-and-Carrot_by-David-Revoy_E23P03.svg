@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel 15734"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P03.svg">
@@ -98,13 +98,14 @@
      inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.52900002"
-     inkscape:cx="854.9487"
-     inkscape:cy="728.87405"
+     inkscape:zoom="0.2630065"
+     inkscape:cx="1061.0022"
+     inkscape:cy="2213.4038"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -113,11 +114,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -153,11 +154,10 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.24600291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.24600291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
        x="787.65729"
        y="1584.5073"
        id="text4580"
-       sodipodi:linespacing="100%"
        transform="matrix(0.59080172,-0.79384316,0.23129973,1.313198,478.68923,-967.19282)"><tspan
          sodipodi:role="line"
          id="tspan4582"
@@ -172,11 +172,10 @@
            id="tspan4617">!</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.00172269;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-3)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.00172269;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-3)"
        x="787.65729"
        y="1584.5073"
        id="text4580-5"
-       sodipodi:linespacing="100%"
        transform="matrix(1.7319678,-0.95095359,-0.41393931,3.0121837,759.58921,-2168.213)"><tspan
          sodipodi:role="line"
          id="tspan4582-6"
@@ -193,57 +192,54 @@
            id="tspan4617-1">!</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.24661636px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="280.11404"
        y="2652.2388"
-       id="text4246-3"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-3"><tspan
          sodipodi:role="line"
-         style="font-size:49.67481232px;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:49.67481232px;line-height:1.25;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="288.84595"
          y="2652.2388"
          id="tspan4167-3">Bonjour ! </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="414.11102"
        y="2735.022"
-       id="text4246-5"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-5"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="414.11102"
          y="2735.022"
          id="tspan4167-1">Permettez-moi de</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="422.02118"
          y="2791.272"
          id="tspan4241">me présenter ! </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="516.56061"
        y="2891.2078"
-       id="text4246"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="516.56061"
          y="2891.2078"
          id="tspan4230">Je suis le Génie du Succès,</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="516.56061"
          y="2947.4578"
          id="tspan4179">à votre service vingt-quatre</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="516.56061"
          y="3003.7078"
          id="tspan4183">heures sur vingt-quatre,</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="524.47076"
          y="3059.9578"
          id="tspan4167">sept jours sur sept !* </tspan></text>

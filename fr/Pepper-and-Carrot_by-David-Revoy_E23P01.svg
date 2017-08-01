@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel 15734"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P01.svg">
@@ -286,7 +286,8 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -295,11 +296,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -353,57 +354,53 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#501616;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#501616;fill-opacity:1;stroke:none"
        x="158.45808"
        y="177.83876"
-       id="text4246"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246"><tspan
          sodipodi:role="line"
-         style="font-size:45px;text-align:start;text-anchor:start;fill:#501616"
+         style="font-size:45px;line-height:1.25;text-align:start;text-anchor:start;fill:#501616"
          x="158.45808"
          y="177.83876"
          id="tspan4252">Marché de Komona</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px;text-align:start;text-anchor:start;fill:#501616"
+         style="font-size:45px;line-height:1.25;text-align:start;text-anchor:start;fill:#501616"
          x="158.45808"
          y="234.08876"
          id="tspan4144">une semaine plus tard</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.50649071px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367)"
        x="373.74872"
        y="1025.2651"
-       id="text4246-3"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-3"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="373.74872"
          y="1025.2651"
          id="tspan4144-7">Célébrités</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.14299999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.78753948;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4289)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.14299999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.78753948;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4289)"
        x="-279.06573"
        y="1481.1207"
        id="text4246-36"
-       sodipodi:linespacing="125%"
        transform="matrix(0.95046329,-0.58606405,0.55140109,1.0160873,-84.69535,-224.92049)"><tspan
          sodipodi:role="line"
-         style="font-size:45px;text-align:start;text-anchor:start;stroke:#000000;stroke-width:3.78753948;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:45px;line-height:1.25;text-align:start;text-anchor:start;stroke:#000000;stroke-width:3.78753948;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="-279.06573"
          y="1481.1207"
          id="tspan4144-5">50 000 Ko</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.50649071px;line-height:87.99999952%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#c8b7b7;fill-opacity:1;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-3-9)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#c8b7b7;fill-opacity:1;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-3-9)"
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6-2"
-       sodipodi:linespacing="88%"
        transform="matrix(0.72899519,0,0,0.71822761,-201.60085,417.74499)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:87.99999952%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#c8b7b7;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1009.6992"
+         x="1000.265"
          y="1716.373"
          id="tspan4144-7-6-2-7">La victoire </tspan><tspan
          sodipodi:role="line"
@@ -413,23 +410,21 @@
          id="tspan4341">de Safran</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.50649071px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7)"
        x="1064.7037"
        y="1024.8058"
-       id="text4246-3-3"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-3-3"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1064.7037"
          y="1024.8058"
          id="tspan4144-7-6">La Mode</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.50649071px;line-height:68.00000072%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#c8b7b7;fill-opacity:1;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-3-7)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#c8b7b7;fill-opacity:1;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-3-7)"
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6-20"
-       sodipodi:linespacing="68.000001%"
        transform="matrix(0.72899519,0,0,0.71822761,501.77652,427.51874)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:68.00000072%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#c8b7b7;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -443,27 +438,25 @@
          id="tspan4430">Safran</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.50649071px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-1)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-1)"
        x="1858.3196"
        y="1029.2672"
-       id="text4246-3-3-5"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-3-3-5"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1858.3196"
          y="1029.2672"
          id="tspan4144-7-6-3">Chic</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.50649071px;line-height:68.00000072%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#c8b7b7;fill-opacity:1;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-3)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#c8b7b7;fill-opacity:1;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-3)"
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6"
-       sodipodi:linespacing="68.000001%"
        transform="matrix(0.72899519,0,0,0.71822761,1188.2249,432.39136)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:68.00000072%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#c8b7b7;stroke:#c8b7b7;stroke-width:4.69878483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1009.6992"
+         x="1000.265"
          y="1716.373"
          id="tspan4391">Spécial </tspan><tspan
          sodipodi:role="line"
@@ -473,11 +466,10 @@
          id="tspan4395">Safran</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.1487186;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.1487186;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
        x="787.65729"
        y="1584.5073"
        id="text4580"
-       sodipodi:linespacing="100%"
        transform="matrix(0.55131378,-1.1747688,0.21584014,1.4415375,276.92641,1516.4447)"><tspan
          sodipodi:role="line"
          id="tspan4582"
