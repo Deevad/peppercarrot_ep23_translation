@@ -43,9 +43,9 @@
      inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40000001"
-     inkscape:cx="889.00663"
-     inkscape:cy="1171.2675"
+     inkscape:zoom="0.52900001"
+     inkscape:cx="527.94535"
+     inkscape:cy="2940.7175"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -59,11 +59,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -165,17 +165,17 @@
          style="font-size:45px;line-height:1.25"
          x="327.50504"
          y="289.43121"
-         id="tspan4201">de ce document, et</tspan><tspan
+         id="tspan4205">de ce document, et les </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="327.50504"
          y="345.68121"
-         id="tspan4203">la porte de la Gloire</tspan><tspan
+         id="tspan867">portes de la Gloire</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="327.50504"
          y="401.93121"
-         id="tspan4205"> vous sera ouverte !</tspan></text>
+         id="tspan873">s'ouvriront à vous !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
