@@ -98,13 +98,13 @@
      inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.3478261"
-     inkscape:cx="1438.8013"
-     inkscape:cy="963.37632"
+     inkscape:zoom="0.52900002"
+     inkscape:cx="854.9487"
+     inkscape:cy="728.87405"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -125,16 +125,27 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 44.608326,2625.361 c 6.200649,-116.2329 248.107004,-121.5365 357.125064,-120.7852 147.45655,1.0161 438.27186,10.2994 509.03282,55.6947 107.49599,68.9621 61.24328,152.6258 21.71423,178.8577 -52.92673,35.1229 -161.84089,38.8699 -273.05182,50.7266 -138.09057,14.7224 -420.90018,-4.2104 -487.24345,-27.2139 C 104.70309,2739.2427 38.407678,2741.594 44.608326,2625.361 Z"
+       d="m 159.26129,2937.2445 c 1.02247,-132.3989 186.81318,-144.2893 270.64323,-146.0737 113.38754,-2.4136 337.24607,1.109 393.10472,51.0464 84.85724,75.8623 51.99626,172.174 22.45399,202.9773 -39.5552,41.2437 -123.16046,48.1438 -208.27011,64.3264 -105.6806,20.0939 -323.69575,5.3985 -375.43705,-19.1686 -52.62947,-24.9887 -103.51724,-20.7085 -102.49478,-153.1078 z"
        id="path3100"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 804.13357,2748.8096 c 42.26082,44.4143 114.15883,60.3083 137.97059,62.5431 -65.2163,6.9896 -146.74671,-20.8919 -173.86487,-52.1977 -27.11821,-31.3059 35.89428,-10.3454 35.89428,-10.3454 z"
+       d="m 843.98883,2956.7978 c 57.3052,17.7871 114.43744,34.6742 149.48328,-5.5841 -24.12635,56.7783 -126.22584,48.3612 -173.00855,34.6012 -39.73498,-11.6871 23.52527,-29.0171 23.52527,-29.0171 z"
        id="path4480"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsc" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 654.52742,2758.8526 c -4.14136,57.1669 -81.95291,74.2662 -137.57411,75.5045 -94.49029,6.2705 -190.51285,1.1492 -283.21484,-15.2086 -59.95645,-14.5458 -90.6481,-87.342 -42.08866,-125.3753 50.02157,-29.8732 115.20374,-28.7665 173.58164,-35.5382 82.68356,-4.658 168.52245,-1.1401 246.64153,23.9189 34.86358,13.7956 47.58592,45.8336 42.65444,76.6987 z"
+       id="path3100-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 131.7172,2635.0819 c -0.81018,-19.5115 25.33667,-73.4917 137.40271,-67.2812 112.06603,6.2106 146.64926,28.4362 149.09654,63.1409 3.87153,54.9018 -55.48808,68.2045 -140.31163,70.342 -87.4439,2.2035 -141.4054,-16.8507 -146.18762,-66.2017 z"
+       id="path3280"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -182,25 +193,59 @@
            id="tspan4617-1">!</tspan></tspan></text>
     <text
        xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.24661636px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="280.11404"
+       y="2652.2388"
+       id="text4246-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:49.67481232px;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="288.84595"
+         y="2652.2388"
+         id="tspan4167-3">Bonjour ! </tspan></text>
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="511.01901"
-       y="2603.8735"
+       x="414.11102"
+       y="2735.022"
+       id="text4246-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="414.11102"
+         y="2735.022"
+         id="tspan4167-1">Permettez-moi de</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="422.02118"
+         y="2791.272"
+         id="tspan4241">me présenter ! </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="516.56061"
+       y="2891.2078"
        id="text4246"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="511.01901"
-         y="2603.8735"
+         x="516.56061"
+         y="2891.2078"
          id="tspan4230">Je suis le Génie du Succès,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="511.01901"
-         y="2660.1235"
-         id="tspan4179">à votre service vingt-quatre heures</tspan><tspan
+         x="516.56061"
+         y="2947.4578"
+         id="tspan4179">à votre service vingt-quatre</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="518.9292"
-         y="2716.3735"
-         id="tspan4183"> sur vingt-quatre, sept jours sur sept !* </tspan></text>
+         x="516.56061"
+         y="3003.7078"
+         id="tspan4183">heures sur vingt-quatre,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="524.47076"
+         y="3059.9578"
+         id="tspan4167">sept jours sur sept !* </tspan></text>
   </g>
 </svg>
