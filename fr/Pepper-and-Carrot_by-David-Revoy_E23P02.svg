@@ -44,9 +44,9 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000002"
-     inkscape:cx="1219.2077"
-     inkscape:cy="1273.7131"
-     inkscape:window-x="1920"
+     inkscape:cx="1086.2512"
+     inkscape:cy="685.28378"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -94,7 +94,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 156.62579,2816.0213 c -8.70184,-47.7495 3.16086,-146.229 181.54918,-135.7836 178.38819,10.4452 213.06561,30.4344 224.97789,80.4768 11.91243,42.4807 19.37474,130.716 -119.85507,157.5752 -139.22995,26.8591 -277.18911,-26.067 -286.672,-102.2684 z"
+       d="m 156.62579,2816.0213 c -8.70184,-47.7495 -5.43169,-135.1897 171.5435,-132.9248 175.07039,2.2406 232.95952,4.1887 253.56555,96.2 -2.3814,61.0627 0.79276,112.134 -138.43705,138.9932 -139.22995,26.8591 -277.18911,-26.067 -286.672,-102.2684 z"
        id="path3525"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscsc" />
@@ -165,7 +165,7 @@
          style="font-size:45px"
          x="1907.8341"
          y="1636.2719"
-         id="tspan4177">une bonne sorcière...…</tspan></text>
+         id="tspan4177">une bonne sorcière…</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
