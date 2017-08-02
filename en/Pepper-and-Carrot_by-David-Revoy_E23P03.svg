@@ -99,9 +99,9 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3478261"
-     inkscape:cx="1401.645"
-     inkscape:cy="876.52632"
-     inkscape:window-x="1920"
+     inkscape:cx="1069.6325"
+     inkscape:cy="694.53883"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
@@ -114,11 +114,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -173,7 +173,7 @@
          style="font-size:45px;line-height:1.25"
          x="417.08981"
          y="2784.6968"
-         id="tspan873"> to introduce myself! </tspan></text>
+         id="tspan873"> to introduce myself: </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

@@ -98,9 +98,9 @@
      inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2630065"
-     inkscape:cx="1061.0022"
-     inkscape:cy="2213.4038"
+     inkscape:zoom="0.40000001"
+     inkscape:cx="1104.8001"
+     inkscape:cy="917.96307"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -114,11 +114,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -216,7 +216,7 @@
          style="font-size:45px;line-height:1.25"
          x="422.02118"
          y="2791.272"
-         id="tspan4241">me présenter ! </tspan></text>
+         id="tspan4241">me présenter : </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -227,7 +227,7 @@
          style="font-size:45px;line-height:1.25"
          x="516.56061"
          y="2891.2078"
-         id="tspan4230">Je suis le Génie du Succès,</tspan><tspan
+         id="tspan4230">je suis le Génie du Succès,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="516.56061"
