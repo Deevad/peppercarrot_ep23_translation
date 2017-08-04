@@ -64,7 +64,7 @@
       <feFlood
          id="feFlood4377-7-9-0-8-1-6"
          flood-opacity="1"
-         flood-color="rgb(0,0,0)"
+         flood-color="rgb(146,62,33)"
          result="flood" />
       <feComposite
          id="feComposite4379-3-8-8-2-77-7"
@@ -99,9 +99,9 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000001"
-     inkscape:cx="1104.8001"
-     inkscape:cy="917.96307"
-     inkscape:window-x="0"
+     inkscape:cx="1108.4903"
+     inkscape:cy="1748.137"
+     inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
@@ -114,11 +114,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -170,26 +170,6 @@
    id="tspan4162">ong</tspan></tspan><tspan
            style="font-size:80.40014648px;line-height:100%;letter-spacing:4.88345098px;stroke:#ffffff;stroke-width:2.24600291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="tspan4617">!</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.00172269;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-3)"
-       x="787.65729"
-       y="1584.5073"
-       id="text4580-5"
-       transform="matrix(1.7319678,-0.95095359,-0.41393931,3.0121837,759.58921,-2168.213)"><tspan
-         sodipodi:role="line"
-         id="tspan4582-6"
-         x="787.65729"
-         y="1584.5073"
-         style="font-size:70px;line-height:100%;letter-spacing:4.88345098px;fill:#ffffff;stroke:#ffffff;stroke-width:1.00172269;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
-           style="font-size:55.34964371px;line-height:100%;letter-spacing:4.88345098px;stroke:#ffffff;stroke-width:1.00172269;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="tspan4439-2">C<tspan
-   style="font-size:38.75984955px;stroke-width:1.00172269"
-   id="tspan4206">H</tspan>P<tspan
-   style="font-size:38.75984955px;stroke-width:1.00172269"
-   id="tspan4208">OUF</tspan></tspan><tspan
-           style="font-size:63.81034851px;line-height:100%;letter-spacing:4.88345098px;stroke:#ffffff;stroke-width:1.00172269;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="tspan4617-1">!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
