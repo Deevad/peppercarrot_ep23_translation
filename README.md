@@ -1,5 +1,4 @@
 # Pepper&Carrot translation project
-# == WARNING: don't translate now, still ALPHA (thanks!) ==
 # Episode 23: Take a Chance
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
