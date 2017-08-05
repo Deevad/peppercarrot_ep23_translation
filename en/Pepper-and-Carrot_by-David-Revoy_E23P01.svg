@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92+devel 15734"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P01.svg">
@@ -262,14 +262,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1006"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.526013"
-     inkscape:cx="1099.2577"
-     inkscape:cy="1902.3792"
+     inkscape:cx="1429.8669"
+     inkscape:cy="1595.0566"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -281,13 +281,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P01.png"
+       sodipodi:absref="/home/mc/Downloads/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -440,21 +440,16 @@
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6"
-       transform="matrix(0.72899519,0,0,0.71822761,1185.6626,326.42681)"><tspan
+       transform="matrix(0.72899519,0,0,0.71822761,1185.6626,417.16559)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
-         y="1769.9366"
-         id="tspan408" /><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1000.265"
-         y="1846.4562"
+         y="1716.373"
          id="tspan4395">Saffron</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
-         y="1922.9756"
+         y="1792.8926"
          id="tspan412">Special</tspan></text>
     <text
        xml:space="preserve"
