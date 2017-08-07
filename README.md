@@ -15,6 +15,7 @@ License
 
 * English: Alex Gryson
 * French: David Revoy
+* Japanese: guruguru
 * Mexicano: RJ Quiralta
 
 ## Artwork:
