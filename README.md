@@ -13,9 +13,13 @@ License
 
 ## Translators and correctors:
 
+* Czech: Kateřina Fleknová
 * English: Alex Gryson
 * French: David Revoy
+* German: colognella
+* Japanese: guruguru
 * Mexicano: RJ Quiralta
+* Russian: lagleki
 
 ## Artwork:
 
