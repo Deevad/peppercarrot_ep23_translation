@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.1 r15371"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P03.svg">
@@ -95,16 +95,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="997"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40000001"
-     inkscape:cx="1108.4903"
-     inkscape:cy="1748.137"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:zoom="0.56568544"
+     inkscape:cx="593.80105"
+     inkscape:cy="534.49137"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
@@ -112,13 +112,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep23_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -126,7 +126,7 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 195.51129,2937.2445 c 1.02247,-132.3989 150.56318,-144.2893 234.39323,-146.0737 113.38754,-2.4136 295.99607,-8.891 351.85472,41.0464 84.85724,75.8623 51.99626,172.174 22.45399,202.9773 -39.5552,41.2437 -54.41046,44.3938 -139.52011,60.5764 -105.6806,20.0939 -264.94575,25.3985 -316.68705,0.8314 -52.62947,-24.9887 -153.51724,-26.9585 -152.49478,-159.3578 z"
+       d="m 192.39518,2951.3866 c 1.02247,-132.3989 150.56318,-144.2893 234.39323,-146.0737 113.38754,-2.4136 295.99607,-8.891 351.85472,41.0464 84.85724,75.8623 58.69278,165.7113 30.40894,197.674 -33.36801,37.7082 -50.15842,47.8858 -135.98458,59.6925 -81.81574,11.2551 -303.22224,10.1684 -359.99733,2.5992 -61.46831,-8.1949 -121.69744,-22.5391 -120.67498,-154.9384 z"
        id="path3100"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -217,11 +217,11 @@
          style="font-size:45px;line-height:1.25"
          x="516.56061"
          y="3003.7078"
-         id="tspan45">vierentwintig uur op</tspan><tspan
+         id="tspan4167">vierentwintig uur per dag,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="516.56061"
          y="3059.9578"
-         id="tspan4167">vierentwintig!*</tspan></text>
+         id="tspan41">zeven dagen per week!*</tspan></text>
   </g>
 </svg>
