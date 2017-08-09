@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.1 r15371"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P04.svg">
@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="997"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.60835003"
-     inkscape:cx="1735.792"
-     inkscape:cy="3021.6129"
+     inkscape:cx="1602.645"
+     inkscape:cy="2985.4495"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0" />
@@ -57,21 +57,21 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P04.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep23_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles">
     <path
-       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1612.675,261.8849 c 12.1884,-30.4125 43.7195,-62.48953 54.5537,-69.40146 10.8338,-6.91193 182.8617,-13.09429 208.5926,-13.09429 25.7304,0 181.5182,3.66977 199.6112,20.44632 18.7782,17.41203 39.8941,71.72613 37.1856,92.46193 -2.7086,20.7358 -31.3744,89.85513 -59.8133,100.91422 -28.4392,11.05911 -177.4062,19.35341 -205.8455,19.35341 -28.4389,0 -151.6754,-5.52954 -181.4688,-23.50057 -29.7934,-17.97102 -52.5237,-59.49549 -52.5237,-67.78982 0,-8.2943 -0.2918,-59.38974 -0.2918,-59.38974 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.10610831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1556.7861,261.8849 c 14.9122,-30.4125 53.4898,-62.48953 66.7451,-69.40146 13.2549,-6.91193 223.7268,-13.09429 255.208,-13.09429 31.4805,0 222.083,3.66977 244.2194,20.44632 22.9746,17.41203 48.8094,71.72613 45.4956,92.46193 -3.3139,20.7358 -38.3858,89.85513 -73.1801,100.91422 -34.7946,11.05911 -217.0521,19.35341 -251.8469,19.35341 -34.7943,0 -185.5711,-5.52954 -222.0226,-23.50057 -36.4515,-17.97102 -64.2615,-59.49549 -64.2615,-67.78982 0,-8.2943 -0.357,-59.38974 -0.357,-59.38974 z"
        id="path4246"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssssc" />
@@ -148,12 +148,12 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.77793884px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1858.9244"
          y="285.55594"
-         id="tspan4177">en feestdagen; aanbod niet</tspan><tspan
+         id="tspan41">en feestdagen; niet combineerbaar</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.77793884px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1858.9244"
          y="330.27838"
-         id="tspan41">cumuleerbaar; zolang</tspan><tspan
+         id="tspan42">met andere aanbiedingen; zolang</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.77793884px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1858.9244"
