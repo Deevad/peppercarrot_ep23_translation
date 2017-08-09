@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92+devel (unknown)"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P07.svg">
@@ -191,17 +191,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1206"
-     inkscape:window-height="777"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46000001"
-     inkscape:cx="1602.7751"
-     inkscape:cy="163.7065"
-     inkscape:window-x="66"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.32526913"
+     inkscape:cx="1684.6277"
+     inkscape:cy="638.89611"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
@@ -209,21 +209,21 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="~/user/pepper/ru/gfx_Pepper-and-Carrot_by-David-Revoy_E23P07.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep23_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles">
     <path
-       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.77037424px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1397.0691,324.50351 c -46.0678,61.54181 -9.2533,153.34018 71.1482,177.13457 57.1452,18.04054 122.4152,22.86149 181.6808,10.50751 56.5641,-12.90175 109.3018,-50.44476 116.1094,-103.22962 13.2185,-41.39877 -11.8636,-85.56841 -56.3761,-103.67528 -64.9428,-28.11682 -140.8594,-19.5677 -210.7562,-16.25672 -36.5229,4.26862 -73.6677,14.09063 -101.8061,35.51954 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.65915775px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1416.9798,344.68825 c -43.6052,47.59978 -8.7586,118.60164 67.3449,137.00552 54.0904,13.95354 115.8712,17.68232 171.9687,8.12709 53.5403,-9.97892 103.4589,-39.01673 109.9025,-79.84342 12.5119,-32.02006 -11.2294,-66.18327 -53.3624,-80.18811 -61.4711,-21.74709 -133.3295,-15.13472 -199.4898,-12.57383 -34.5705,3.30158 -69.7297,10.89846 -96.3639,27.47275 z"
        id="path4347"
        inkscape:connector-curvature="0" />
     <path
@@ -308,24 +308,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1573.6196"
-       y="358.10355"
+       x="1578.6566"
+       y="383.4751"
        id="text4246"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1573.6196"
-         y="358.10355"
-         id="tspan4148">Удача однажды</tspan><tspan
+         x="1578.6566"
+         y="383.4751"
+         id="tspan4148">Однажды и нам</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1573.6196"
-         y="414.35355"
-         id="tspan119">улыбнётся</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="1573.6196"
-         y="470.60355"
-         id="tspan92">и нам тоже!</tspan></text>
+         x="1578.6566"
+         y="439.7251"
+         id="tspan92">улыбнётся удача!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-1)"

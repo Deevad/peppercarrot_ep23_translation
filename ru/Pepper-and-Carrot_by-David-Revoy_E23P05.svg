@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92+devel (unknown)"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P05.svg">
@@ -39,17 +39,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1206"
-     inkscape:window-height="777"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.37194736"
-     inkscape:cx="1840.3213"
-     inkscape:cy="816.02723"
-     inkscape:window-x="66"
-     inkscape:window-y="-8"
+     inkscape:cx="1105.0022"
+     inkscape:cy="1138.6535"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      inkscape:snap-global="false" />
   <g
@@ -58,13 +58,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="~/user/pepper/ru/gfx_Pepper-and-Carrot_by-David-Revoy_E23P05.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep23_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -108,8 +108,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csscscsscscssc" />
     <path
-       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1844.0558,1649.0812 c 24.7762,-32.8604 244.7799,-55.6259 362.7427,-22.239 48.4124,19.2128 110.6766,77.8563 64.6992,125.2802 -61.5439,29.0304 -136.1553,17.8709 -202.9095,31.1587 -77.084,5.7443 -146.3253,9.6804 -220.2369,-15.6583 -52.1764,-29.0231 -33.6957,-85.7728 -4.2955,-118.5416 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.08790827px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1806.2447,1649.6506 c 28.8978,-33.3447 285.4998,-56.4457 423.0862,-22.5667 56.466,19.496 129.0881,79.0038 75.4622,127.1266 -71.782,29.4583 -158.8052,18.1343 -236.6642,31.618 -89.9073,5.8289 -170.6671,9.823 -256.8742,-15.8891 -60.8561,-29.4508 -39.301,-87.037 -5.01,-120.2888 z"
        id="path4405"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -149,34 +149,34 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="351.50504"
-       y="192.9312"
+       x="330.21478"
+       y="189.6683"
        id="text4246"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="351.50504"
-         y="192.9312"
+         x="330.21478"
+         y="189.6683"
          id="tspan4205">Всего лишь одна</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="351.50504"
-         y="249.1812"
-         id="tspan68">маленькая подпись здесь</tspan><tspan
+         x="330.21478"
+         y="245.9183"
+         id="tspan52">манюсенькая подпись</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="351.50504"
-         y="305.43121"
-         id="tspan75">внизу документа, и</tspan><tspan
+         x="330.21478"
+         y="302.16833"
+         id="tspan75">вот тут внизу, и</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="351.50504"
-         y="361.68121"
-         id="tspan77">перед тобой открыта</tspan><tspan
+         x="330.21478"
+         y="358.41833"
+         id="tspan77">перед тобой откроются</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="351.50504"
-         y="417.93121"
-         id="tspan79">дорога к славе!</tspan></text>
+         x="330.21478"
+         y="414.66833"
+         id="tspan79">двери к славе!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -187,7 +187,7 @@
          style="font-size:45px;line-height:1.25"
          x="1325.9771"
          y="1213.2607"
-         id="tspan78">Погоди.</tspan></text>
+         id="tspan78">Погоди-ка.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -196,14 +196,14 @@
        id="text4246-3-6"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2056.0889"
+         x="2049.8047"
          y="1660.8641"
          id="tspan4225">Что это за </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="2049.8047"
          y="1717.1141"
-         id="tspan107">&quot;неожиданное спасение&quot;</tspan><tspan
+         id="tspan107">божественное вмешательство</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="2049.8047"
@@ -219,12 +219,12 @@
          style="font-size:45px;line-height:1.25"
          x="2049.9131"
          y="1194.9019"
-         id="tspan93">Сейчас в худшие для меня</tspan><tspan
+         id="tspan88">Прямо когда дела идут хуже</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="2049.9131"
          y="1251.1519"
-         id="tspan88">времена ты падаешь откуда-то</tspan><tspan
+         id="tspan62">некуда, ты падаешь откуда-то</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="2049.9131"
@@ -255,7 +255,9 @@
          style="font-size:45px;line-height:1.25"
          x="2136.7385"
          y="1943.9176"
-         id="tspan116">очень подозрительно!</tspan></text>
+         id="tspan116"><tspan
+   style="font-style:italic"
+   id="tspan64">очень </tspan>подозрительно!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -282,26 +284,26 @@
          style="font-size:45px;line-height:1.25"
          x="463.76996"
          y="2355.7214"
-         id="tspan156">Немного раньше это, может,</tspan><tspan
+         id="tspan138">Раньше бы мы, может,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="463.76996"
          y="2411.9714"
-         id="tspan138">и сработало бы, но мы с тобой</tspan><tspan
+         id="tspan68">на это и повелись, но мы с тобой</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="463.76996"
          y="2468.2214"
-         id="tspan866">уже не такие дураки,</tspan><tspan
+         id="tspan866">уже не настолько глупы,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="463.76996"
          y="2524.4714"
-         id="tspan140">чтобы повестись на такое</tspan><tspan
+         id="tspan142">чтобы влезать в</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="463.76996"
          y="2580.7214"
-         id="tspan142">мошенничество!</tspan></text>
+         id="tspan72">такую аферу!</tspan></text>
   </g>
 </svg>

@@ -19,7 +19,7 @@ License
 * German: colognella
 * Japanese: guruguru
 * Mexicano: RJ Quiralta
-* Russian: lagleki
+* Russian: lagleki, uncle Night
 
 ## Artwork:
 

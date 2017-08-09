@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92+devel (unknown)"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P02.svg">
@@ -39,30 +39,31 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1206"
-     inkscape:window-height="777"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.28284273"
-     inkscape:cx="1251.3438"
-     inkscape:cy="1751.5"
-     inkscape:window-x="66"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.56568546"
+     inkscape:cx="2164.4596"
+     inkscape:cy="413.60753"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3"
+     inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="~/user/pepper/ru/gfx_Pepper-and-Carrot_by-David-Revoy_E23P02.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep23_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -111,8 +112,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssssc" />
     <path
-       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.86392486"
-       d="m 2036.9103,3264.063 c -1.2891,-22.8198 21.8244,-79.9465 134.5708,-75.6496 112.7465,4.2969 148.0343,29.3977 151.3383,69.9597 5.2266,64.1679 -54.0891,81.3158 -139.2613,86.0687 -87.8032,4.8997 -148.0105,-39.1473 -146.6478,-80.3788 z"
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.95640218"
+       d="m 2021.4367,3273.2764 c -1.4088,-25.5906 23.8508,-89.6537 147.0655,-84.8351 123.2149,4.8186 161.7791,32.9672 165.3899,78.4544 5.7119,71.9593 -59.1112,91.1893 -152.1915,96.5193 -95.9557,5.4947 -161.7531,-43.9006 -160.2639,-90.1386 z"
        id="path3280-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -221,6 +222,6 @@
          style="font-size:45px;line-height:1.25"
          x="2182.7688"
          y="3311.0688"
-         id="tspan81">нечестно.</tspan></text>
+         id="tspan81">несправедливо.</tspan></text>
   </g>
 </svg>

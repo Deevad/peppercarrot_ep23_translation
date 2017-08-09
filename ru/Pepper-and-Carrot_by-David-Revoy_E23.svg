@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92+devel (unknown)"
    width="1100"
    height="765"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23.svg">
@@ -166,28 +166,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1206"
-     inkscape:window-height="777"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.45190111"
-     inkscape:cx="767.57707"
-     inkscape:cy="156.33044"
-     inkscape:window-x="66"
-     inkscape:window-y="-8"
+     inkscape:cx="562.68685"
+     inkscape:cy="469.68546"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="~/user/pepper/ru/gfx_Pepper-and-Carrot_by-David-Revoy_E23.png"
+     sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep23_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E23.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23.png"
      y="0"
      x="0"
@@ -201,13 +202,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3836-1-7)"
-       x="203.40625"
-       y="734.10187"
+       x="327.88269"
+       y="735.17603"
        id="text4183"><tspan
          sodipodi:role="line"
          id="tspan4185"
-         x="203.40625"
-         y="734.10187"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha">Эпизод 23: Рискованное предложение</tspan></text>
+         x="327.88269"
+         y="735.17603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha">Эпизод 23: Рискованный шаг</tspan></text>
   </g>
 </svg>

@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92+devel (unknown)"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P03.svg">
@@ -94,15 +94,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1206"
-     inkscape:window-height="777"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.33856694"
-     inkscape:cx="1267.3466"
-     inkscape:cy="185.74773"
-     inkscape:window-x="66"
-     inkscape:window-y="-8"
+     inkscape:cx="1305.7437"
+     inkscape:cy="658.32783"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0" />
@@ -112,7 +112,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="~/user/pepper/ru/gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep23_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
        y="0"
        x="0"
@@ -168,12 +168,12 @@
          style="font-size:45px;line-height:1.25"
          x="409.17966"
          y="2728.4468"
-         id="tspan40">Разрешите</tspan><tspan
+         id="tspan40">Позвольте</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="409.17966"
          y="2784.6968"
-         id="tspan61">представиться.</tspan></text>
+         id="tspan61">представиться:</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -191,12 +191,8 @@
          x="787.65729"
          y="1584.5073"
          style="font-size:70px;line-height:100%;letter-spacing:4.88345098px;fill:#ffffff;stroke:#ffffff;stroke-width:2.24600291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
-           style="font-size:55.34964371px;line-height:100%;letter-spacing:4.88345098px;stroke:#ffffff;stroke-width:2.24600291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="tspan4439">B<tspan
-   style="font-size:49.24533081px;stroke-width:2.24600291"
-   id="tspan4162">ong</tspan></tspan><tspan
            style="font-size:80.40014648px;line-height:100%;letter-spacing:4.88345098px;stroke:#ffffff;stroke-width:2.24600291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="tspan4617">!</tspan></tspan></text>
+           id="tspan4617">Бам!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -207,7 +203,7 @@
          style="font-size:45px;line-height:1.25"
          x="517.54071"
          y="2899.5256"
-         id="tspan459">Я - джин Успеха. И я</tspan><tspan
+         id="tspan459">Я - джинн Успеха,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="517.54071"
