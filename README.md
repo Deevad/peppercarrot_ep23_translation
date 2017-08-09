@@ -14,6 +14,7 @@ License
 ## Translators and correctors:
 
 * Czech: Kateřina Fleknová
+* Dutch: Midgard, corrections: Willem Sonke
 * English: Alex Gryson
 * French: David Revoy
 * German: colognella
