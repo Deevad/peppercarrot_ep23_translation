@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.1 r15371"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P06.svg">
@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="997"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3478261"
-     inkscape:cx="710.43883"
-     inkscape:cy="2215.9263"
+     inkscape:cx="762.18883"
+     inkscape:cy="1367.8013"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0" />
@@ -58,13 +58,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P06.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep23_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -189,7 +189,7 @@
          style="font-size:45px;line-height:1.25"
          x="1077.1152"
          y="2092.0928"
-         id="tspan4233">doorzien, terug</tspan><tspan
+         id="tspan4233">doorzien, weer</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="1077.1152"
