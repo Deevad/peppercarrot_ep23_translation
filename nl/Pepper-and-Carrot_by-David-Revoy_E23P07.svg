@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92+devel 15734"
+   inkscape:version="0.92.1 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P07.svg">
@@ -222,8 +222,8 @@
      id="layer3"
      inkscape:label="speechbubbles">
     <path
-       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1361.1331,323.11287 c -55.0323,79.31169 -11.0539,197.61637 84.9931,228.28126 68.2651,23.24965 146.2362,29.46263 217.0344,13.54149 67.5709,-16.62706 130.571,-65.01042 138.7032,-133.03662 15.7907,-53.35246 -14.1721,-110.27587 -67.3464,-133.611 -77.58,-36.23541 -168.2695,-25.21777 -251.7677,-20.95077 -43.6298,5.50117 -88.0026,18.15923 -121.6166,45.77564 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1369.1556,362.51111 c -53.1654,66.28656 -10.6789,165.1624 82.11,190.79128 65.9493,19.43143 141.2754,24.62407 209.6719,11.31761 65.2788,-13.89644 126.1417,-54.33394 133.9981,-111.18839 15.255,-44.59054 -13.6914,-92.16558 -65.0618,-111.66845 -74.9484,-30.28457 -162.5614,-21.07633 -243.2271,-17.51009 -42.1498,4.59773 -85.0174,15.177 -117.4911,38.25804 z"
        id="path4347"
        inkscape:connector-curvature="0" />
     <path
@@ -240,12 +240,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367)"
-       x="373.24075"
+       x="333.24075"
        y="265.07324"
        id="text4246-3"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="373.24075"
+         x="333.24075"
          y="265.07324"
          id="tspan4144-7">Beroemdheid</tspan></text>
     <text
@@ -280,12 +280,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7)"
-       x="1064.1958"
+       x="1124.1958"
        y="264.61389"
        id="text4246-3-3"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1064.1958"
+         x="1124.1958"
          y="264.61389"
          id="tspan4144-7-6">Mode</tspan></text>
     <text
@@ -309,28 +309,23 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1573.6196"
-       y="358.10355"
+       y="400.10355"
        id="text4246"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="1573.6196"
-         y="358.10355"
-         id="tspan4252">Het lot zal</tspan><tspan
+         y="400.10355"
+         id="tspan4144">Het lot zal óns</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="1573.6196"
-         y="414.35355"
-         id="tspan4144">óns uiteindelijk</tspan><tspan
+         y="456.35355"
+         id="tspan4146">uiteindelijk ook</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="1573.6196"
-         y="470.60355"
-         id="tspan4146">ook wel</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="1573.6196"
-         y="526.85352"
-         id="tspan4148">toelachen!</tspan></text>
+         y="512.60352"
+         id="tspan4148">wel toelachen!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-1)"
@@ -374,12 +369,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-9)"
-       x="372.60318"
+       x="332.60318"
        y="2226.2607"
        id="text4246-3-6"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="372.60318"
+         x="332.60318"
          y="2226.2607"
          id="tspan4144-7-0">Beroemdheid</tspan></text>
     <text
@@ -402,12 +397,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-6)"
-       x="1063.5582"
+       x="1123.5582"
        y="2225.8013"
        id="text4246-3-3-7"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1063.5582"
+         x="1123.5582"
          y="2225.8013"
          id="tspan4144-7-6-9">Mode</tspan></text>
     <text

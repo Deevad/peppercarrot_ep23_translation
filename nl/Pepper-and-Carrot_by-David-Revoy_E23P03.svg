@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92+devel 15734"
+   inkscape:version="0.92.1 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P03.svg">
@@ -126,24 +126,24 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 159.26129,2937.2445 c 1.02247,-132.3989 186.81318,-144.2893 270.64323,-146.0737 113.38754,-2.4136 337.24607,1.109 393.10472,51.0464 84.85724,75.8623 51.99626,172.174 22.45399,202.9773 -39.5552,41.2437 -123.16046,48.1438 -208.27011,64.3264 -105.6806,20.0939 -323.69575,5.3985 -375.43705,-19.1686 -52.62947,-24.9887 -103.51724,-20.7085 -102.49478,-153.1078 z"
+       d="m 195.51129,2937.2445 c 1.02247,-132.3989 150.56318,-144.2893 234.39323,-146.0737 113.38754,-2.4136 295.99607,-8.891 351.85472,41.0464 84.85724,75.8623 51.99626,172.174 22.45399,202.9773 -39.5552,41.2437 -54.41046,44.3938 -139.52011,60.5764 -105.6806,20.0939 -264.94575,25.3985 -316.68705,0.8314 -52.62947,-24.9887 -153.51724,-26.9585 -152.49478,-159.3578 z"
        id="path3100"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 843.98883,2956.7978 c 57.3052,17.7871 114.43744,34.6742 149.48328,-5.5841 -24.12635,56.7783 -126.22584,48.3612 -173.00855,34.6012 -39.73498,-11.6871 23.52527,-29.0171 23.52527,-29.0171 z"
+       d="m 830.73058,2957.6817 c 57.3052,17.7871 127.69569,33.7903 162.74153,-6.468 -24.12635,56.7783 -139.48409,49.2451 -186.2668,35.4851 -39.73498,-11.6871 23.52527,-29.0171 23.52527,-29.0171 z"
        id="path4480"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 654.52742,2758.8526 c -4.14136,57.1669 -81.95291,74.2662 -137.57411,75.5045 -94.49029,6.2705 -190.51285,1.1492 -283.21484,-15.2086 -59.95645,-14.5458 -90.6481,-87.342 -42.08866,-125.3753 50.02157,-29.8732 115.20374,-28.7665 173.58164,-35.5382 82.68356,-4.658 168.52245,-1.1401 246.64153,23.9189 34.86358,13.7956 47.58592,45.8336 42.65444,76.6987 z"
+       d="m 660.7146,2782.8076 c -4.14136,57.1669 -81.95291,74.2662 -137.57411,75.5045 -94.49029,6.2705 -190.51285,1.1492 -283.21484,-15.2086 -59.95645,-14.5458 -90.6481,-87.342 -42.08866,-125.3753 50.02157,-29.8732 115.20374,-28.7665 173.58164,-35.5382 82.68356,-4.658 168.52245,-1.1401 246.64153,23.9189 34.86358,13.7956 47.58592,45.8336 42.65444,76.6987 z"
        id="path3100-2"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;stroke:none"
-       d="m 131.7172,2635.0819 c -0.81018,-19.5115 25.33667,-73.4917 137.40271,-67.2812 112.06603,6.2106 146.64926,28.4362 149.09654,63.1409 3.87153,54.9018 -55.48808,68.2045 -140.31163,70.342 -87.4439,2.2035 -141.4054,-16.8507 -146.18762,-66.2017 z"
+       style="fill:#ffffff;stroke:none;stroke-width:1"
+       d="m 120.27422,2649.0819 c -0.92008,-19.5115 28.77364,-73.4917 156.04165,-67.2812 127.268,6.2106 166.54251,28.4362 169.32177,63.1409 4.39671,54.9018 -63.01515,68.2045 -159.34517,70.342 -99.30583,2.2035 -160.58731,-16.8507 -166.01825,-66.2017 z"
        id="path3280"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -167,35 +167,35 @@
            style="font-size:55.34964371px;line-height:100%;letter-spacing:4.88345098px;stroke:#ffffff;stroke-width:2.24600291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="tspan4439">B<tspan
    style="font-size:49.24533081px;stroke-width:2.24600291"
-   id="tspan4162">ong</tspan></tspan><tspan
+   id="tspan4162">onk</tspan></tspan><tspan
            style="font-size:80.40014648px;line-height:100%;letter-spacing:4.88345098px;stroke:#ffffff;stroke-width:2.24600291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="tspan4617">!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="280.11404"
-       y="2652.2388"
+       y="2666.2388"
        id="text4246-3"><tspan
          sodipodi:role="line"
          style="font-size:49.67481232px;line-height:1.25;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="288.84595"
-         y="2652.2388"
+         x="280.11404"
+         y="2666.2388"
          id="tspan4167-3">Goedendag!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="414.11102"
-       y="2735.022"
+       y="2751.022"
        id="text4246-5"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="414.11102"
-         y="2735.022"
+         y="2751.022"
          id="tspan4167-1">Staat u mij toe</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="422.02118"
-         y="2791.272"
+         x="414.11102"
+         y="2807.272"
          id="tspan4241">mij voor te stellen:</tspan></text>
     <text
        xml:space="preserve"
@@ -212,16 +212,16 @@
          style="font-size:45px;line-height:1.25"
          x="516.56061"
          y="2947.4578"
-         id="tspan4179">vierentwintig uur op</tspan><tspan
+         id="tspan4179">elke dag toch tot uw dienst,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="516.56061"
          y="3003.7078"
-         id="tspan4183">vierentwintig, zeven dagen op</tspan><tspan
+         id="tspan45">vierentwintig uur op</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="524.47076"
+         x="516.56061"
          y="3059.9578"
-         id="tspan4167">zeven tot uw dienst!*</tspan></text>
+         id="tspan4167">vierentwintig!*</tspan></text>
   </g>
 </svg>
