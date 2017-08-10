@@ -1,5 +1,4 @@
 # Pepper&Carrot translation project
-# == WARNING: don't translate now, still ALPHA (thanks!) ==
 # Episode 23: Take a Chance
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -14,9 +13,17 @@ License
 
 ## Translators and correctors:
 
+* Chinese: Ran Zhuang
+* Czech: Kateřina Fleknová
+* Dutch: Midgard, corrections: Willem Sonke
 * English: Alex Gryson
 * French: David Revoy
-
+* German: colognella
+* Japanese: guruguru
+* Mexicano: RJ Quiralta
+* Russian: lagleki, uncle Night
+* Slovak: talime
+* Spanish: TheFaico
 
 ## Artwork:
 

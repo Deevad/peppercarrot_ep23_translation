@@ -196,12 +196,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
-     inkscape:cx="1174.5473"
-     inkscape:cy="808.28543"
-     inkscape:window-x="0"
+     inkscape:cx="916.79683"
+     inkscape:cy="2579.93"
+     inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
@@ -211,11 +211,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -223,12 +223,12 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.77037424px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1414.374,324.9096 c -43.0051,60.2335 -8.6381,150.08034 66.4181,173.36889 53.346,17.65702 114.2766,22.37548 169.6021,10.28413 52.8035,-12.62747 102.035,-49.37236 108.39,-101.03507 12.3397,-40.51868 -11.0748,-83.74933 -52.628,-101.47127 -60.6252,-27.51909 -131.4947,-19.15171 -196.7445,-15.91112 -34.0947,4.17788 -68.77,13.79108 -95.0377,34.76444 z"
+       d="m 1397.0691,324.50351 c -46.0678,61.54181 -9.2533,153.34018 71.1482,177.13457 57.1452,18.04054 122.4152,22.86149 181.6808,10.50751 56.5641,-12.90175 109.3018,-50.44476 116.1094,-103.22962 13.2185,-41.39877 -11.8636,-85.56841 -56.3761,-103.67528 -64.9428,-28.11682 -140.8594,-19.5677 -210.7562,-16.25672 -36.5229,4.26862 -73.6677,14.09063 -101.8061,35.51954 z"
        id="path4347"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1765.3654,643.65162 c -95.1268,-7.11808 -116.6267,-64.07718 -120.1201,-132.00605 -2.8753,-55.91161 -50.6654,-68.07329 -47.3725,-17.89088 3.2928,50.1824 50.0846,172.46208 167.4926,149.89693 z"
+       d="m 1765.3654,643.65162 c -95.1268,4.0684 -132.7849,-85.20719 -136.2783,-153.13606 -2.8753,-55.91161 -34.5072,-46.94328 -31.2143,3.23913 3.2928,50.1824 50.0846,172.46208 167.4926,149.89693 z"
        id="path4360"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssc" />

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P03.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9"
+         operator="dilate"
+         radius="3"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-3"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-6"
+         flood-opacity="1"
+         flood-color="rgb(146,62,33)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-5"
+         operator="dilate"
+         radius="3"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-3"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.49386991"
+     inkscape:cx="1319.6967"
+     inkscape:cy="338.75519"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep23_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 159.26129,2937.2445 c 1.02247,-132.3989 186.81318,-144.2893 270.64323,-146.0737 113.38754,-2.4136 337.24607,1.109 393.10472,51.0464 84.85724,75.8623 51.99626,172.174 22.45399,202.9773 -39.5552,41.2437 -123.16046,48.1438 -208.27011,64.3264 -105.6806,20.0939 -323.69575,5.3985 -375.43705,-19.1686 -52.62947,-24.9887 -103.51724,-20.7085 -102.49478,-153.1078 z"
+       id="path3100"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 843.98883,2956.7978 c 57.3052,17.7871 114.43744,34.6742 149.48328,-5.5841 -24.12635,56.7783 -126.22584,48.3612 -173.00855,34.6012 -39.73498,-11.6871 23.52527,-29.0171 23.52527,-29.0171 z"
+       id="path4480"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsc" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:0.98325998"
+       d="m 648.48685,2760.8774 c -4.00387,57.1669 -79.23209,74.2662 -133.00668,75.5045 -91.35323,6.2705 -184.18786,1.1492 -273.81216,-15.2086 -57.9659,-14.5458 -87.6386,-87.342 -40.69132,-125.3753 48.36086,-29.8732 111.379,-28.7665 167.81876,-35.5382 79.93848,-4.658 162.92754,-1.1401 238.45308,23.9189 33.70611,13.7956 46.00607,45.8336 41.23832,76.6987 z"
+       id="path3100-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:0.93804884"
+       d="m 151.96328,2635.0819 c -0.71291,-19.5115 22.29463,-73.4917 120.90553,-67.2812 98.61089,6.2106 129.0419,28.4362 131.19534,63.1409 3.4067,54.9018 -48.82593,68.2045 -123.46519,70.342 -76.94499,2.2035 -124.42764,-16.8507 -128.63568,-66.2017 z"
+       id="path3280"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.24600291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580"
+       transform="matrix(0.59080172,-0.79384316,0.23129973,1.313198,478.68923,-967.19282)"><tspan
+         sodipodi:role="line"
+         id="tspan4582"
+         x="787.65729"
+         y="1584.5073"
+         style="font-size:70px;line-height:100%;letter-spacing:4.88345098px;fill:#ffffff;stroke:#ffffff;stroke-width:2.24600291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-size:55.34964371px;line-height:100%;letter-spacing:4.88345098px;stroke:#ffffff;stroke-width:2.24600291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="tspan4439"><tspan
+             style="font-size:49.24533081px;stroke-width:2.24600291"
+             id="tspan4162">¡Pong</tspan></tspan><tspan
+           style="font-size:80.40014648px;line-height:100%;letter-spacing:4.88345098px;stroke:#ffffff;stroke-width:2.24600291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="tspan4617">!</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="280.11404"
+       y="2652.2388"
+       id="text4246-3"><tspan
+         sodipodi:role="line"
+         style="font-size:49.67481232px;line-height:1.25;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="288.84595"
+         y="2652.2388"
+         id="tspan4167-3">¡ Holas ! </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="414.11102"
+       y="2735.022"
+       id="text4246-5"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="414.11102"
+         y="2735.022"
+         id="tspan4241">Permítanme que</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="422.02118"
+         y="2791.272"
+         id="tspan4516">me presente : </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="516.56061"
+       y="2891.2078"
+       id="text4246"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="516.56061"
+         y="2891.2078"
+         id="tspan4167">¡ Soy el Genio de la lampara</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="516.56061"
+         y="2947.4578"
+         id="tspan4527">del éxito, a vuestro servicio las</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="516.56061"
+         y="3003.7078"
+         id="tspan4529">veinte y cuatro horas del dia,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="524.47076"
+         y="3059.9578"
+         id="tspan4531">los siete días de la semana !* </tspan></text>
+  </g>
+</svg>
