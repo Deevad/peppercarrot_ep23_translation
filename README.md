@@ -13,6 +13,7 @@ License
 
 ## Translators and correctors:
 
+* Chinese: Ran Zhuang
 * Czech: Kateřina Fleknová
 * Dutch: Midgard, corrections: Willem Sonke
 * English: Alex Gryson
