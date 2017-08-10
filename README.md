@@ -22,6 +22,7 @@ License
 * Japanese: guruguru
 * Mexicano: RJ Quiralta
 * Russian: lagleki, uncle Night
+* Spanish: TheFaico
 
 ## Artwork:
 
