@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P01.svg">
@@ -251,6 +251,16 @@
          operator="over"
          result="composite2" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath182">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 795.34613,1743.5126 c 13.32107,-20.3196 -2.08726,-73.9033 -4.75079,-80.1472 l 18.12947,-28.5171 c 10.09376,-22.6191 -3.94831,-23.0878 4.40621,-44.8923 l 564.98108,3.8818 -1.7442,271.9222 -679.6334,-6.491 -13.95304,-46.6177 5.81376,-2.9504 c 0,0 18.6041,8.2613 26.74352,8.2613 8.13928,0 40.11522,-14.7525 40.11522,-14.7525 z"
+         id="path184"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccscc" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -261,31 +271,32 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1046"
+     inkscape:window-width="958"
+     inkscape:window-height="1022"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.41709995"
-     inkscape:cx="1153.9202"
-     inkscape:cy="1714.3122"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.89480048"
+     inkscape:cx="1974.8196"
+     inkscape:cy="1821.8375"
+     inkscape:window-x="1280"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:snap-object-midpoints="true" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep23_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P01.png"
+       sodipodi:absref="/home/ruben/git/peppercarrot/ep23/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -356,13 +367,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367)"
-       x="273.54877"
-       y="1025.2651"
+       x="357.54877"
+       y="1015.2651"
        id="text4246-3"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="273.54877"
-         y="1025.2651"
+         x="357.54877"
+         y="1015.2651"
          id="tspan4144-7">Celebridades</tspan></text>
     <text
        xml:space="preserve"
@@ -382,7 +393,7 @@
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6-2"
-       transform="matrix(0.72899519,0,0,0.71822761,-201.60085,415.91758)"><tspan
+       transform="matrix(0.72899519,0,0,0.71822761,-187.60085,421.91758)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:87.99999952%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
@@ -396,13 +407,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7)"
-       x="1064.7037"
-       y="1024.8058"
+       x="1084.7037"
+       y="1014.8058"
        id="text4246-3-3"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1064.7037"
-         y="1024.8058"
+         x="1084.7037"
+         y="1014.8058"
          id="tspan4144-7-6">La Moda</tspan></text>
     <text
        xml:space="preserve"
@@ -410,7 +421,7 @@
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6-20"
-       transform="matrix(0.72899519,0,0,0.71822761,501.77652,422.91346)"><tspan
+       transform="matrix(0.72899519,0,0,0.71822761,501.77652,426.91346)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
@@ -425,12 +436,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-1)"
        x="1858.3196"
-       y="1029.2672"
+       y="1019.2672"
        id="text4246-3-3-5"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1858.3196"
-         y="1029.2672"
+         y="1019.2672"
          id="tspan4144-7-6-3">Estilo</tspan></text>
     <text
        xml:space="preserve"
@@ -438,12 +449,13 @@
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6"
-       transform="matrix(0.72899519,0,0,0.71822761,1188.2249,419.29778)"><tspan
+       transform="matrix(0.72899519,0,0,0.71822761,1188.2249,411.29778)"
+       clip-path="url(#clipPath182)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:110.00000238%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
          y="1716.373"
-         id="tspan4395">      distinguida</tspan><tspan
+         id="tspan4395">La distinguida</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:110.00000238%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
