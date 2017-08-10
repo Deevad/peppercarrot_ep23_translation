@@ -98,13 +98,13 @@
      inkscape:window-height="1046"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.49386991"
-     inkscape:cx="1319.6967"
-     inkscape:cy="338.75519"
+     inkscape:zoom="0.43117158"
+     inkscape:cx="1274.1812"
+     inkscape:cy="767.81872"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
@@ -114,19 +114,19 @@
     <image
        sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep23_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles">
     <path
-       style="fill:#ffffff;stroke:none"
-       d="m 159.26129,2937.2445 c 1.02247,-132.3989 186.81318,-144.2893 270.64323,-146.0737 113.38754,-2.4136 337.24607,1.109 393.10472,51.0464 84.85724,75.8623 51.99626,172.174 22.45399,202.9773 -39.5552,41.2437 -123.16046,48.1438 -208.27011,64.3264 -105.6806,20.0939 -323.69575,5.3985 -375.43705,-19.1686 -52.62947,-24.9887 -103.51724,-20.7085 -102.49478,-153.1078 z"
+       style="fill:#ffffff;stroke:none;stroke-width:0.98218155"
+       d="m 159.26129,2932.0657 c 1.02247,-127.7226 186.81318,-139.1931 270.64323,-140.9145 113.38754,-2.3283 337.24607,1.0699 393.10472,49.2435 84.85724,73.1829 51.99626,166.0929 22.45399,195.8083 -39.5552,39.787 -123.16046,46.4434 -208.27011,62.0544 -105.6806,19.3842 -323.69575,5.2078 -375.43705,-18.4916 -52.62947,-24.1061 -103.51724,-19.977 -102.49478,-147.7001 z"
        id="path3100"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -200,28 +200,28 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="516.56061"
-       y="2891.2078"
+       x="514.24133"
+       y="2877.2922"
        id="text4246"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="516.56061"
-         y="2891.2078"
-         id="tspan4167">¡ Soy el Genio de la lampara</tspan><tspan
+         x="514.24133"
+         y="2877.2922"
+         id="tspan4167">¡ Soy el Genio de la lámpara</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="516.56061"
-         y="2947.4578"
+         x="514.24133"
+         y="2933.5422"
          id="tspan4527">del éxito, a vuestro servicio las</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="516.56061"
-         y="3003.7078"
+         x="514.24133"
+         y="2989.7922"
          id="tspan4529">veinte y cuatro horas del dia,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="524.47076"
-         y="3059.9578"
+         x="522.15149"
+         y="3046.0422"
          id="tspan4531">los siete días de la semana !* </tspan></text>
   </g>
 </svg>
