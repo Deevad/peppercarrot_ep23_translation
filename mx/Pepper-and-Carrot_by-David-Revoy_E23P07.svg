@@ -282,16 +282,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="958"
-     inkscape:window-height="1022"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.43117159"
-     inkscape:cx="1417.3636"
-     inkscape:cy="2762.9112"
-     inkscape:window-x="2240"
+     inkscape:cx="1683.9378"
+     inkscape:cy="2940.2654"
+     inkscape:window-x="1280"
      inkscape:window-y="32"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0" />
   <g
@@ -302,11 +302,11 @@
     <image
        sodipodi:absref="/home/ruben/git/peppercarrot/ep23/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -314,9 +314,10 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.89196068px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1360.9862,338.76284 c -54.6963,63.48751 -10.9864,158.18819 84.4741,182.73486 67.8484,18.61091 145.3434,23.58428 215.7093,10.83971 67.1584,-13.30964 129.7738,-52.03962 137.8564,-106.49332 15.6943,-42.70765 -14.0856,-88.27377 -66.9352,-106.9531 -77.1064,-29.00577 -167.2422,-20.18636 -250.2306,-16.7707 -43.3634,4.40359 -87.4653,14.53612 -120.874,36.64255 z"
+       d="m 1339.7095,330.56301 c -58.545,63.48751 -5.1996,166.38802 96.9778,190.93469 72.6225,18.61091 155.5703,23.58428 230.8874,10.83971 71.8838,-13.30964 138.9051,-52.03962 147.5564,-106.49332 16.7986,-42.70765 -5.2369,-88.27377 -61.8052,-106.9531 -82.5319,-29.00577 -188.8497,-20.18636 -277.6774,-16.7707 -46.4146,4.40359 -100.1796,6.33629 -135.939,28.44272 z"
        id="path4347"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1765.3654,643.65162 c -95.1268,-7.11808 -116.6267,-64.07718 -120.1201,-132.00605 -2.8753,-55.91161 -50.6654,-68.07329 -47.3725,-17.89088 3.2928,50.1824 50.0846,172.46208 167.4926,149.89693 z"
@@ -379,7 +380,7 @@
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6-2-6"
-       transform="matrix(0.72899519,0,0,0.71822761,-185.10735,1640.3007)"><tspan
+       transform="matrix(0.72899519,0,0,0.71822761,-185.10735,1630.3007)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:89.99999762%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
@@ -396,7 +397,7 @@
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6-20-2"
-       transform="matrix(0.72899519,0,0,0.71822761,494.87992,1649.2098)"><tspan
+       transform="matrix(0.72899519,0,0,0.71822761,494.87992,1633.2098)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:89.99999762%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
@@ -413,7 +414,7 @@
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6-5"
-       transform="matrix(0.72899519,0,0,0.71822761,1210.4385,1654.9125)"><tspan
+       transform="matrix(0.72899519,0,0,0.71822761,1210.4385,1638.9125)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:89.99999762%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
@@ -486,7 +487,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
          y="1716.373"
-         id="tspan4426">La Fenomènal</tspan><tspan
+         id="tspan4426">La fenomenal</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"

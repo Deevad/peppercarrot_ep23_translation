@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P04.svg">
@@ -40,16 +40,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1046"
+     inkscape:window-height="1048"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46369099"
-     inkscape:cx="1335.9048"
-     inkscape:cy="2632.3976"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="1853.4909"
+     inkscape:cy="820.84633"
+     inkscape:window-x="1280"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
@@ -57,13 +57,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep23_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P04.png"
+       sodipodi:absref="/home/ruben/git/peppercarrot/ep23/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -95,7 +95,7 @@
        sodipodi:nodetypes="cssssssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1860.7116,1986.4373 c -4.5243,-42.7914 26.7685,-82.8297 66.3588,-91.8378 67.2402,-28.4031 143.6874,-19.9069 212.314,-3.0571 32.9413,9.462 67.1824,37.0094 84.9009,66.3466 20.6697,35.3673 -10.3814,70.7447 -45.2625,77.0323 -67.0165,19.2443 -138.2168,18.217 -207.1836,13.0416 -31.6914,-5.5265 -68.4006,-2.6993 -94.549,-24.2317 -10.6284,-9.1666 -18.1475,-22.9374 -16.5786,-37.2939 z"
+       d="m 1860.7116,1940.7913 c -4.5243,42.7914 26.7685,82.8297 66.3588,91.8378 67.2402,28.4031 143.6874,19.9069 212.314,3.0571 32.9413,-9.462 71.4956,-26.2264 89.2141,-55.5636 20.6697,-35.3673 -14.6946,-81.5277 -49.5757,-87.8153 -67.0165,-19.2443 -138.2168,-18.217 -207.1836,-13.0416 -31.6914,5.5265 -68.4006,2.6993 -94.549,24.2317 -10.6284,9.1666 -18.1475,22.9374 -16.5786,37.2939 z"
        id="path3357"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
@@ -107,7 +107,7 @@
        sodipodi:nodetypes="cscsc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 138.85637,2125.3411 c 17.4749,-38.9356 59.65078,-62.0143 101.62493,-69.3099 46.89281,-8.7072 95.31874,-4.5768 141.97822,3.4442 30.74955,6.3727 61.54816,17.1327 85.9471,36.6618 9.21028,11.7795 19.6301,25.8707 22.49857,40.0075 14.14179,33.5054 1.99281,66.1649 -27.80791,110.1942 -32.93384,25.997 -77.43541,26.089 -117.82528,28.7458 -45.75382,5.3421 -93.35325,0.5022 -135.73186,-17.4252 -26.34171,-11.9911 -52.80502,-29.1457 -65.32604,-55.3388 -9.14205,-24.772 -15.92437,-53.2974 -5.35773,-76.9796 z"
+       d="m 129.73357,2116.0975 c 18.4085,-40.7936 62.83765,-64.9736 107.05428,-72.6173 49.39808,-9.1227 100.41119,-4.7952 149.56347,3.6085 32.39235,6.6769 64.83639,17.9503 90.53886,38.4113 9.70234,12.3417 20.67884,27.1053 23.70056,41.9167 14.89732,35.1043 2.09928,69.3223 -29.29356,115.4526 -34.69334,27.2376 -81.57243,27.334 -124.12014,30.1176 -48.19824,5.597 -98.34069,0.5261 -142.98339,-18.2568 -27.74903,-12.5633 -55.62615,-30.5365 -68.81611,-57.9795 -9.63047,-25.9541 -16.77514,-55.8408 -5.64397,-80.6531 z"
        id="path3365"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
@@ -124,7 +124,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;stroke:none;stroke-width:1.03266656"
-       d="m 1469.3793,3067.061 c -2.099,-26.8142 -31.0756,-93.9409 203.3419,-87.248 183.5763,5.2413 242.461,9.0236 247.9204,91.2825 5.0626,76.2796 -155.6344,78.2704 -243.2546,79.578 -125.293,1.8699 -210.2266,-35.1635 -208.0077,-83.6125 z"
+       d="m 1458.21,3067.061 c -2.1788,-26.8142 -32.2576,-93.9409 211.0765,-87.248 190.5591,5.2413 251.6836,9.0236 257.3507,91.2825 5.2551,76.2796 -161.5543,78.2704 -252.5074,79.578 -130.0588,1.8699 -218.2231,-35.1635 -215.9198,-83.6125 z"
        id="path3280-8-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -183,18 +183,18 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="2041.754"
-       y="1961.0073"
+       x="2043.754"
+       y="1949.0073"
        id="text4246-3-7"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2041.754"
-         y="1961.0073"
+         x="2043.754"
+         y="1949.0073"
          id="tspan4191">¡ Reconocimiento</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2041.754"
-         y="2017.2573"
+         x="2043.754"
+         y="2005.2573"
          id="tspan4556">internacional !</tspan></text>
     <text
        xml:space="preserve"
