@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P05.svg">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -85,7 +85,7 @@
        sodipodi:nodetypes="csccsc" />
     <path
        style="fill:#ffffff;stroke:none;stroke-width:1.02040076"
-       d="m 1195.5608,1197.6515 c -1.5546,-53.5831 58.0531,-69.8942 99.9327,-76.7349 41.8801,-6.8406 180.6097,1.1985 171.2531,66.5799 -9.3564,65.3816 -104.8104,72.1725 -156.8814,68.408 -52.0709,-3.7645 -106.5875,-7.3775 -114.3044,-58.253 z"
+       d="m 1174.0247,1197.6515 c -1.7325,-53.5831 64.6944,-69.8942 111.3651,-76.7349 46.6712,-6.8406 201.2716,1.1985 190.8446,66.5799 -10.4268,65.3816 -116.8008,72.1725 -174.8288,68.408 -58.0278,-3.7645 -118.7812,-7.3775 -127.3809,-58.253 z"
        id="path3938"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -109,7 +109,7 @@
        sodipodi:nodetypes="csscscsscscssc" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.99078137px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1837.3239,1656.3709 c 25.6731,-31.1304 253.6406,-52.6974 375.8736,-21.0682 50.1648,18.2013 114.6829,73.7575 67.0411,118.6848 -63.7716,27.502 -141.0839,16.93 -210.2546,29.5183 -79.8743,5.4419 -151.622,9.1708 -228.2091,-14.834 -54.0651,-27.4951 -34.9155,-81.2572 -4.451,-112.3009 z"
+       d="m 1837.9844,1656.3709 c 26.2438,-31.1304 259.2792,-52.6974 384.2296,-21.0682 51.28,18.2013 117.2324,73.7575 68.5315,118.6848 -65.1893,27.502 -144.2204,16.93 -214.9288,29.5183 -81.65,5.4419 -154.9927,9.1708 -233.2824,-14.834 -55.267,-27.4951 -35.6917,-81.2572 -4.5499,-112.3009 z"
        id="path4405"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -131,13 +131,13 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.93423033px;marker:none;enable-background:accumulate"
-       d="m 157.05598,2518.2536 c -4.01248,-94.361 -40.99771,-235.2953 197.34113,-239.2107 195.48017,-3.2113 426.73467,-33.7027 426.22403,210.1832 -0.35136,167.8155 -179.56823,167.2515 -274.32476,170.4482 -202.34519,6.8263 -346.12084,-45.5168 -349.2404,-141.4207 z"
+       d="m 143.07044,2521.3615 c -4.01248,-94.361 50.68529,-235.2953 289.02413,-239.2107 144.26473,-2.3699 360.95817,-7.3011 360.95817,210.1832 0,167.8159 -187.33798,167.2515 -282.09451,170.4482 -202.34519,6.8263 -364.76823,-45.5168 -367.88779,-141.4207 z"
        id="path3525-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 742.60914,2350.2751 c 102.97849,-126.0799 251.45982,-276.6361 847.08866,1.322 C 1049.11,2056.78 875.57765,2160.7347 719.24197,2320.9166 c -175.12871,179.4373 23.36717,29.3585 23.36717,29.3585 z"
+       d="M 731.7315,2356.4909 C 834.70999,2230.411 994.06896,2073.639 1589.6978,2351.5971 1049.11,2056.78 864.70001,2166.9505 708.36433,2327.1324 c -175.12871,179.4373 23.36717,29.3585 23.36717,29.3585 z"
        id="path4446"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsc" />
@@ -196,17 +196,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="2049.8047"
+       x="2055.8047"
        y="1688.8641"
        id="text4246-3-6"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2049.8047"
+         x="2055.8047"
          y="1688.8641"
          id="tspan4263">cos'è questo</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2049.8047"
+         x="2055.8047"
          y="1745.1141"
          id="tspan7820"><tspan
    style="font-style:italic"
@@ -236,12 +236,12 @@
          style="font-size:45px;line-height:1.25"
          x="2023.913"
          y="1313.6519"
-         id="tspan7804">soluzione miracolosa</tspan><tspan
+         id="tspan99">soluzione miracolosa per</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="2023.913"
          y="1369.9019"
-         id="tspan99">per tutti i miei problemi?!</tspan></text>
+         id="tspan61">tutti i miei problemi?!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -296,17 +296,17 @@
          style="font-size:45px;line-height:1.25"
          x="463.76996"
          y="2429.9714"
-         id="tspan148">funzionare una volta, ma</tspan><tspan
+         id="tspan148">funzionare una volta,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="463.76996"
          y="2486.2214"
-         id="tspan8635">ora non siamo più così stupidi</tspan><tspan
+         id="tspan8635">ma ora non siamo più così</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="463.76996"
          y="2542.4714"
-         id="tspan866">da cascare in questo</tspan><tspan
+         id="tspan866">stupidi da cascare in questo</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="463.76996"

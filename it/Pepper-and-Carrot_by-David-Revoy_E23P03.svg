@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P03.svg">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -137,8 +137,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsc" />
     <path
-       style="fill:#ffffff;stroke:none"
-       d="m 654.52742,2758.8526 c -4.14136,57.1669 -81.95291,74.2662 -137.57411,75.5045 -94.49029,6.2705 -190.51285,1.1492 -283.21484,-15.2086 -59.95645,-14.5458 -90.6481,-87.342 -42.08866,-125.3753 50.02157,-29.8732 115.20374,-28.7665 173.58164,-35.5382 82.68356,-4.658 168.52245,-1.1401 246.64153,23.9189 34.86358,13.7956 47.58592,45.8336 42.65444,76.6987 z"
+       style="fill:#ffffff;stroke:none;stroke-width:1"
+       d="m 628.76074,2758.8526 c -3.70211,57.1669 -73.26064,74.2662 -122.98243,75.5045 -84.46826,6.2705 -170.30627,1.1492 -253.1759,-15.2086 -53.59722,-14.5458 -81.03359,-87.342 -37.62456,-125.3753 44.71607,-29.8732 102.98475,-28.7665 155.17085,-35.5382 73.9138,-4.658 150.64826,-1.1401 220.48171,23.9189 31.1658,13.7956 42.53876,45.8336 38.13033,76.6987 z"
        id="path3100-2"
        inkscape:connector-curvature="0" />
     <path
@@ -203,12 +203,12 @@
          style="font-size:45px;line-height:1.25"
          x="517.54071"
          y="2899.5256"
-         id="tspan4230">sono il Genio del Successo,</tspan><tspan
+         id="tspan4183">sono il Genio del Successo, al</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="517.54071"
          y="2955.7756"
-         id="tspan4183">al vostro servizio ventiquattro ore su</tspan><tspan
+         id="tspan38">vostro servizio ventiquattro ore su</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="525.45087"
