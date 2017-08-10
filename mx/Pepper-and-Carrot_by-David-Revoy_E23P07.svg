@@ -44,20 +44,6 @@
          id="feGaussianBlur4291" />
     </filter>
     <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4367"
-       x="-0.0043557761"
-       width="1.0087116"
-       y="-0.020747934"
-       height="1.0414959"
-       inkscape:label="graphic-blending">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.59122338"
-         id="feGaussianBlur4369" />
-    </filter>
-    <filter
        style="color-interpolation-filters:sRGB"
        id="filter4375-4-1-1-1-9"
        inkscape:label="deevad outline effect">
@@ -290,9 +276,9 @@
      inkscape:window-height="1046"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.24693496"
-     inkscape:cx="1309.5286"
-     inkscape:cy="1937.0144"
+     inkscape:zoom="0.43117159"
+     inkscape:cx="1192.5429"
+     inkscape:cy="533.45508"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -306,11 +292,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep23_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -383,16 +369,16 @@
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6-2-6"
-       transform="matrix(0.72899519,0,0,0.71822761,-194.3844,1600.8732)"><tspan
+       transform="matrix(0.72899519,0,0,0.71822761,-185.10735,1640.3007)"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:89.99999762%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
          y="1716.373"
          id="tspan4696">La aventurera</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:89.99999762%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
-         y="1792.8926"
+         y="1802.4574"
          id="tspan4700">Paloma</tspan></text>
     <text
        xml:space="preserve"
@@ -400,16 +386,16 @@
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6-20-2"
-       transform="matrix(0.72899519,0,0,0.71822761,497.19918,1602.8245)"><tspan
+       transform="matrix(0.72899519,0,0,0.71822761,494.87992,1649.2098)"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:89.99999762%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
          y="1716.373"
          id="tspan4426-0">La fenomenal</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:89.99999762%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
-         y="1792.8926"
+         y="1802.4574"
          id="tspan4430-2">Paloma</tspan></text>
     <text
        xml:space="preserve"
@@ -417,16 +403,16 @@
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6-5"
-       transform="matrix(0.72899519,0,0,0.71822761,1205.8,1606.208)"><tspan
+       transform="matrix(0.72899519,0,0,0.71822761,1210.4385,1654.9125)"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:89.99999762%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
          y="1716.373"
          id="tspan4395-2">La distinguida</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:89.99999762%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
-         y="1792.8926"
+         y="1802.4574"
          id="tspan4704">Paloma</tspan></text>
     <text
        xml:space="preserve"
@@ -443,13 +429,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-6)"
-       x="270.89801"
-       y="296.24942"
+       x="289.45212"
+       y="293.93015"
        id="text4246-3"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="270.89801"
-         y="296.24942"
+         x="289.45212"
+         y="293.93015"
          id="tspan4144-7">Celebridades</tspan></text>
     <text
        xml:space="preserve"
@@ -457,7 +443,7 @@
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6-2"
-       transform="matrix(0.72899519,0,0,0.71822761,-204.25156,-313.09812)"><tspan
+       transform="matrix(0.72899519,0,0,0.71822761,-178.73968,-310.77886)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:87.99999952%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
@@ -485,7 +471,7 @@
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6-20"
-       transform="matrix(0.72899519,0,0,0.71822761,499.12578,-306.10224)"><tspan
+       transform="matrix(0.72899519,0,0,0.71822761,515.36062,-306.10224)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
@@ -513,49 +499,59 @@
        x="1000.265"
        y="1716.373"
        id="text4246-3-3-6"
-       transform="matrix(0.72899519,0,0,0.71822761,1185.5742,-309.71792)"><tspan
+       transform="matrix(0.72899519,0,0,0.71822761,1204.1283,-328.27202)"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1000.265"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:110.00000238%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1015.4904"
          y="1716.373"
-         id="tspan4395">La distinguida</tspan><tspan
+         id="tspan4395">La distingu     </tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:80.00000119%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:110.00000238%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1000.265"
-         y="1792.8926"
+         y="1821.5873"
          id="tspan4561">Azafrán</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-6-0)"
-       x="296.65509"
-       y="2225.281"
+       x="282.7395"
+       y="2246.1543"
        id="text4246-3-36"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="296.65509"
-         y="2225.281"
+         x="282.7395"
+         y="2246.1543"
          id="tspan4144-7-0">Celebridades</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-2)"
-       x="1087.8101"
-       y="2224.8215"
+       x="1083.1715"
+       y="2248.0142"
        id="text4246-3-3-62"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1087.8101"
-         y="2224.8215"
+         x="1083.1715"
+         y="2248.0142"
          id="tspan4144-7-6-6">La Moda</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-1-9)"
-       x="1881.4259"
-       y="2229.283"
+       x="1839.6792"
+       y="2250.1562"
        id="text4246-3-3-5-1"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1881.4259"
-         y="2229.283"
+         x="1839.6792"
+         y="2250.1562"
          id="tspan4144-7-6-3-8">Estilo</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4568"
+       style="font-family:'Noto Sans';font-size:85.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Noto Sans, Normal';writing-mode:lr"><flowRegion
+         id="flowRegion4570"><rect
+           id="rect4572"
+           width="447.61761"
+           height="127.55943"
+           x="243.52254"
+           y="2790.9866" /></flowRegion><flowPara
+         id="flowPara4574"></flowPara></flowRoot>  </g>
 </svg>

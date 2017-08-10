@@ -43,9 +43,9 @@
      inkscape:window-height="1046"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.17460938"
-     inkscape:cx="1346.1682"
-     inkscape:cy="1695.7144"
+     inkscape:zoom="0.30488435"
+     inkscape:cx="1076.3938"
+     inkscape:cy="934.77012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,11 +59,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep23_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -175,7 +175,7 @@
          style="font-size:45px;line-height:1.25"
          x="358.00287"
          y="2761.7161"
-         id="tspan4183">…respetando las</tspan><tspan
+         id="tspan4183">…Respetando las</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="358.00287"
@@ -189,39 +189,44 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="674.74036"
-       y="2950.1072"
+       x="661.62061"
+       y="2930.4275"
        id="text4246-3-5-2"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="674.74036"
-         y="2950.1072"
-         id="tspan4198">…no es justo que Azafrán se</tspan><tspan
+         x="661.62061"
+         y="2930.4275"
+         id="tspan4198">…No es justo que Azafrán se</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="674.74036"
-         y="3006.3572"
-         id="tspan4532">vuelva tan popular en hechicería</tspan><tspan
+         x="661.62061"
+         y="2986.6775"
+         id="tspan4536">vuelva tan popular entre las</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="674.74036"
-         y="3062.6072"
-         id="tspan4536">por algo que no es magia…</tspan></text>
+         x="661.62061"
+         y="3042.9275"
+         id="tspan4515">hechizeras por estilo más que</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="661.62061"
+         y="3099.1775"
+         id="tspan4517">por magia…</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="2182.7688"
-       y="3254.8188"
+       x="2179.4888"
+       y="3264.6587"
        id="text4246-3-5-2-2"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2182.7688"
-         y="3254.8188"
+         x="2179.4888"
+         y="3264.6587"
          id="tspan4264">…Simplemente</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2182.7688"
-         y="3311.0688"
+         x="2179.4888"
+         y="3320.9087"
          id="tspan4540">no es justo.</tspan></text>
   </g>
 </svg>

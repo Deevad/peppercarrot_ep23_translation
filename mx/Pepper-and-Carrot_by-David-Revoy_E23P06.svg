@@ -43,9 +43,9 @@
      inkscape:window-height="1046"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.60733698"
-     inkscape:cx="1220.9404"
-     inkscape:cy="552.68768"
+     inkscape:zoom="0.53023365"
+     inkscape:cx="1310.2878"
+     inkscape:cy="481.02116"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -60,11 +60,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep23_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -205,7 +205,7 @@
          style="font-size:45px;line-height:1.25"
          x="2115.3867"
          y="2053.0166"
-         id="tspan4270">… al final, con</tspan><tspan
+         id="tspan4270">… Al final, ¡ Con</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="2115.3867"
@@ -226,5 +226,5 @@
            height="164.65324"
            x="2064.7517"
            y="1994.7764" /></flowRegion><flowPara
-         id="flowPara4529"></flowPara></flowRoot>  </g>
+         id="flowPara4529" /></flowRoot>  </g>
 </svg>
