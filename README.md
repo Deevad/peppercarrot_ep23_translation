@@ -19,6 +19,7 @@ License
 * English: Alex Gryson
 * French: David Revoy
 * German: colognella
+* Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Japanese: guruguru
 * Mexicano: RJ Quiralta
