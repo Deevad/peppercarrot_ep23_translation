@@ -40,16 +40,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1048"
+     inkscape:window-height="1046"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.43117158"
-     inkscape:cx="2011.4011"
-     inkscape:cy="1207.8794"
-     inkscape:window-x="1280"
-     inkscape:window-y="32"
+     inkscape:zoom="0.376433"
+     inkscape:cx="1500.354"
+     inkscape:cy="453.42907"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
@@ -57,13 +57,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/ruben/git/peppercarrot/ep23/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P02.png"
+       sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep23_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -106,8 +106,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsccsc" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 307.2026,2980.125 c 9.63098,-53.657 45.52839,-85.663 65.66592,-96.9593 20.13753,-11.2962 253.03259,-24.475 303.8142,-26.3578 50.78162,-1.8827 197.87325,-2.824 261.78805,30.1233 63.91483,32.9473 87.55443,77.1909 88.43013,102.6073 0.8756,25.4165 -22.7642,93.1939 -143.5895,113.9037 -120.8252,20.7098 -242.09574,29.0322 -288.49959,25.2667 -46.40394,-3.7653 -204.84803,-11.0481 -248.62521,-55.2915 -43.77738,-44.2436 -38.10845,-61.2864 -38.984,-93.2924 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03812039px;marker:none;enable-background:accumulate"
+       d="m 307.2026,2989.7648 c 9.63098,-57.8258 45.52839,-92.3185 65.66592,-104.4925 20.13753,-12.1738 253.03259,-26.3765 303.8142,-28.4056 50.78162,-2.029 197.87325,-3.0434 261.78805,32.4637 63.91483,35.5071 87.55443,83.1881 88.43013,110.5793 0.8756,27.3912 -22.7642,100.4345 -143.5895,122.7533 -120.8252,22.3188 -242.09574,31.2878 -288.49959,27.2298 -46.40394,-4.0579 -204.84803,-11.9065 -248.62521,-59.5874 -43.77738,-47.681 -38.10845,-66.0479 -38.984,-100.5406 z"
        id="path5909"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssssc" />
@@ -189,29 +189,29 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="659.62061"
-       y="2928.4275"
+       x="654.30756"
+       y="2931.084"
        id="text4246-3-5-2"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="659.62061"
-         y="2928.4275"
+         x="654.30756"
+         y="2931.084"
          id="tspan4198">…No es justo que Azafrán se</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="659.62061"
-         y="2984.6775"
+         x="654.30756"
+         y="2987.334"
          id="tspan4536">vuelva tan popular entre las</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="659.62061"
-         y="3040.9275"
-         id="tspan4515">hechizeras por estilo más que</tspan><tspan
+         x="654.30756"
+         y="3043.584"
+         id="tspan4515">hechizeras por su aparience</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="659.62061"
-         y="3097.1775"
-         id="tspan4517">por magia…</tspan></text>
+         x="654.30756"
+         y="3099.834"
+         id="tspan4517">más que por magia…</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
