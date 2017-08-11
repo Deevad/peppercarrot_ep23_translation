@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1048"
+     inkscape:window-height="1046"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46369099"
-     inkscape:cx="1853.4909"
-     inkscape:cy="820.84633"
-     inkscape:window-x="1280"
-     inkscape:window-y="32"
+     inkscape:zoom="0.57250755"
+     inkscape:cx="1213.7183"
+     inkscape:cy="803.82267"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0" />
@@ -57,13 +57,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/ruben/git/peppercarrot/ep23/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P04.png"
+       sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep23_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -82,8 +82,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscc" />
     <path
-       style="fill:#ffffff;stroke:none"
-       d="m 715.39201,1248.2057 c -2.34127,-33.9259 39.63745,-118.8559 244.40776,-112.4677 204.77023,6.3882 268.86023,43.7054 274.86083,104.0086 9.4928,95.398 -98.2367,120.8916 -252.92643,127.9576 -159.46838,7.2845 -268.81709,-58.1999 -266.34216,-119.4985 z"
+       style="fill:#ffffff;stroke:none;stroke-width:1.05970502"
+       d="m 724.12339,1249.4089 c -2.28621,-39.0154 38.70534,-136.6865 238.66027,-129.3401 199.95484,7.3467 262.53774,50.2623 268.39724,119.612 9.2695,109.7095 -95.9266,139.0276 -246.97865,147.1536 -155.71833,8.3774 -262.49559,-66.931 -260.07886,-137.4255 z"
        id="path3280-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -148,7 +148,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.77793884px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1856.9244"
          y="283.55594"
-         id="tspan4523">semana y los dias festivos.</tspan><tspan
+         id="tspan4523">semana y los días festivos.</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.77793884px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1856.9244"
@@ -199,23 +199,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="317.84491"
-       y="2108.1274"
+       x="319.59161"
+       y="2102.8875"
        id="text4246-3-7-6"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="317.84491"
-         y="2108.1274"
+         x="319.59161"
+         y="2102.8875"
          id="tspan4563">Estilistas, y</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="317.84491"
-         y="2164.3774"
+         x="319.59161"
+         y="2159.1375"
          id="tspan4567">salón de belleza,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="317.84491"
-         y="2220.6274"
+         x="319.59161"
+         y="2215.3875"
          id="tspan4569">¡ Todo incluido !</tspan></text>
     <text
        xml:space="preserve"

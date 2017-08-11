@@ -43,9 +43,9 @@
      inkscape:window-height="1046"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.30733069"
-     inkscape:cx="1694.1834"
-     inkscape:cy="1118.5721"
+     inkscape:zoom="0.37945344"
+     inkscape:cx="1316.6128"
+     inkscape:cy="1079.0416"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,11 +59,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep23_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -207,7 +207,7 @@
          style="font-size:45px;line-height:1.25"
          x="2073.8047"
          y="1678.8641"
-         id="tspan4263">¡¿ Que es ésto,</tspan><tspan
+         id="tspan4263">¡¿ Qué es ésto,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="2073.8047"
@@ -286,7 +286,7 @@
          style="font-size:45px;line-height:1.25"
          x="455.10898"
          y="2362.8953"
-         id="tspan4612">Tiempo atrás, hubieramos</tspan><tspan
+         id="tspan4612">Tiempo atrás, hubiéramos</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="455.10898"
