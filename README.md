@@ -24,6 +24,7 @@ License
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Japanese: guruguru
 * Mexicano: RJ Quiralta
+* Norwegian: Thomas Nordstrøm
 * Russian: lagleki, uncle Night
 * Slovak: talime
 * Spanish: TheFaico
