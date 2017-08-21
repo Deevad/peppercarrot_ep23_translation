@@ -49,7 +49,7 @@ License
 
 ## Artwork:
 
-* David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
+* David Revoy, [www.peppercarrot.com](http://www.peppercarrot.com/)
 
 
 ## Downloads:
