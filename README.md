@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 23: Take a Chance
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -23,6 +23,7 @@ License
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Japanese: guruguru
 * Mexicano: RJ Quiralta
+* Portuguese: Alexandre E. Almeida
 * Russian: lagleki, uncle Night
 * Slovak: talime
 * Spanish: TheFaico
