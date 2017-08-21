@@ -14,19 +14,38 @@ License
 ## Translators and correctors:
 
 * Chinese: Ran Zhuang
+
 * Czech: Kateřina Fleknová
+
 * Dutch: Midgard, corrections: Willem Sonke
+
 * English: Alex Gryson
+
+* Finnish: Kari Lehto
+
 * French: David Revoy
+
 * German: colognella
+
 * Indonesian: Bonaventura Aditya Perdana
+
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
+
 * Japanese: guruguru
+
 * Mexicano: RJ Quiralta
+
+* Norwegian: Thomas Nordstrøm
+
 * Portuguese: Alexandre E. Almeida
+
 * Russian: lagleki, uncle Night
+
 * Slovak: talime
+
 * Spanish: TheFaico
+
+* Vietnamese: Hồ Châu
 
 ## Artwork:
 

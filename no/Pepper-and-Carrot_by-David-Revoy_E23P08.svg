@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="5000"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P08.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5546">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5548" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5550" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur5552" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset5554" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5556" />
+    </filter>
+    <filter
+       id="filter5546-3"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood5548-7"
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1" />
+      <feComposite
+         id="feComposite5550-5"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur5552-9"
+         result="blur"
+         stdDeviation="1"
+         in="composite1" />
+      <feOffset
+         id="feOffset5554-2"
+         result="offset"
+         dy="2.5"
+         dx="2.5" />
+      <feComposite
+         id="feComposite5556-2"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.16643379"
+     inkscape:cx="1467.894"
+     inkscape:cy="2254.836"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:object-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
+    <sodipodi:guide
+       position="1425.8203,4914.3274"
+       orientation="0,1"
+       id="guide4214"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="artwork"
+     style="display:inline"
+     transform="translate(0,1024)"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot/peppercarrot_ep23_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P08.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P08.png"
+       width="2481"
+       height="5000"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles"
+     style="display:inline"
+     transform="translate(0,1024)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text"
+     style="display:inline;opacity:0.85500004"
+     transform="translate(0,1024)">
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate;"
+       x="1242.4336"
+       y="-655.88531"
+       id="text4246-42-4"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate;"
+         x="1242.4336"
+         y="-655.88531"
+         id="tspan4252-9-9">Basert p<tspan
+   style="font-size:27.5px"
+   id="tspan4178">å</tspan> Hereva universet skapt av David Revoy med bidrag fra Craig Maloney. Rettelser av Willem Sonke, Moini, Hali, CGand og Alex Gryson.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85;fill:#241c1c;fill-opacity:1;stroke:none;"
+       x="1241.0786"
+       y="-614.98932"
+       id="text4229"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         x="1241.0786"
+         y="-614.98932"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#241c1c;stroke:none;"
+         id="tspan4169">Programvare: Krita 3.1.4, Inkscape 0.92dev på Linux Mint 18.2 Cinnamon</tspan></text>
+    <text
+       id="text4179"
+       y="-570.45563"
+       x="1241.3423"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85;fill:#241c1c;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
+       sodipodi:linespacing="0%"><tspan
+         id="tspan4181"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:'Lavi Bold';fill:#241c1c;stroke:none;"
+         y="-570.45563"
+         x="1241.3423"
+         sodipodi:role="line">Lisens: Creative Commons Attribution 4.0</tspan></text>
+    <g
+       id="layer3-3"
+       inkscape:label="speechbubbles"
+       style="display:inline"
+       transform="translate(3195.7967,85.04968)" />
+    <text
+       sodipodi:linespacing="0%"
+       id="text4246-42-1"
+       y="-864.19141"
+       x="1240.3224"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#241c1c;fill-opacity:1;stroke:none;opacity:0.85;"
+       xml:space="preserve"><tspan
+         id="tspan4252-9-2"
+         y="-864.19141"
+         x="1240.3224"
+         style="font-size:36.73472214px;line-height:1.25;fill:#241c1c;stroke:none;"
+         sodipodi:role="line">08/2017 - www.peppercarrot.com - Tegnet &amp; fortalt av : David Revoy - Oversatt av: Thomas Nordstrøm</tspan></text>
+    <text
+       sodipodi:linespacing="0%"
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate;"
+       x="1242.2651"
+       y="-816.31439"
+       id="text4151-9"><tspan
+         sodipodi:role="line"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate;"
+         x="1242.2651"
+         y="-816.31439"
+         id="tspan4153-3">Korrekturlesning og utbedringer av dialogen: Alex Gryson, Calimeroteknik, Nicolas Artance, Valvin, and Craig Maloney.</tspan><tspan
+         sodipodi:role="line"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate;"
+         x="1247.5386"
+         y="-778.81439"
+         id="tspan9893">Hjelp med storyboard og &quot;mise-en-scène&quot;: Calimeroteknik og Craig Maloney </tspan></text>
+    <g
+       transform="translate(5821.0866,483.2661)"
+       style="display:inline"
+       inkscape:label="speechbubbles"
+       id="layer3-2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29317284px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#6b5f5a;fill-opacity:1;stroke:none;filter:url(#filter4155)"
+       x="1240.6465"
+       y="3843.0117"
+       id="text4221-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4223-2"
+         x="1240.6465"
+         y="3843.0117"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#6b5f5a;fill-opacity:1">Du kan ogs<tspan
+   style="font-size:35px;fill:#6b5f5a;fill-opacity:1"
+   id="tspan4159">å</tspan> bli en hjelper for Pepper &amp; Gulrot via www.patreon.com/davidrevoy</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4143"
+       y="-374.83286"
+       x="1240.644"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.71540833px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.62502705;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
+       xml:space="preserve"><tspan
+         id="tspan4147"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+         y="-374.83286"
+         x="1240.644"
+         sodipodi:role="line">Pepper &amp; Gulrot er fullstendig fri, <tspan
+   style="font-size:35px"
+   id="tspan4161">å</tspan>pen kildekode</tspan><tspan
+         id="tspan4149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+         y="-324.83286"
+         x="1240.644"
+         sodipodi:role="line">og sponset av sine trofaste følgere. Denne episoden</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+         y="-274.83286"
+         x="1240.644"
+         sodipodi:role="line"
+         id="tspan4157">ble muligjort av 879 støttespillere via Patron:</tspan></text>
+  </g>
+</svg>
