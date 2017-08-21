@@ -17,6 +17,7 @@ License
 * Czech: Kateřina Fleknová
 * Dutch: Midgard, corrections: Willem Sonke
 * English: Alex Gryson
+* Finnish: Kari Lehto
 * French: David Revoy
 * German: colognella
 * Indonesian: Bonaventura Aditya Perdana
