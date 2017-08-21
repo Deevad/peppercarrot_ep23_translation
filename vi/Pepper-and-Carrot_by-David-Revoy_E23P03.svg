@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P03.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9"
+         operator="dilate"
+         radius="3"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-3"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-5"
+         operator="dilate"
+         radius="3"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-3"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.37500001"
+     inkscape:cx="1552.7659"
+     inkscape:cy="3216.206"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3"
+     inkscape:document-rotation="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep23_translation/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P03.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 274.80263,2886.7442 c -0.32512,-79.6306 185.52855,-89.4762 254.61243,-89.3019 93.45813,0.2357 273.85875,-2.6228 319.89155,27.549 69.93039,45.8353 55.04158,99.6359 30.69596,118.2469 -32.59722,24.9192 -85.2402,21.4051 -155.3786,31.1825 -87.0908,12.1406 -299.09965,3.2852 -353.95811,-2.5454 -43.46378,-4.6194 -95.53811,-5.5003 -95.86323,-85.1311 z"
+       id="path3100"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 825.58889,2949.8329 c 19.81526,20.7482 71.64661,33.7487 96.54116,35.7102 27.25111,2.1472 51.59787,-3.2849 69.91268,-24.3237 -24.12635,56.7783 -160.16696,55.9037 -242.77642,-4.054 -33.51981,-24.3285 76.32258,-7.3325 76.32258,-7.3325 z"
+       id="path4480"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 588.67608,2753.3167 c -3.07103,44.4748 -60.77232,57.7777 -102.01831,58.7412 -70.06944,4.8783 -141.27514,0.894 -210.01846,-11.8321 -44.46081,-11.3164 -67.22026,-67.9505 -31.21092,-97.5397 37.09358,-23.2409 85.42954,-22.3799 128.71977,-27.6481 61.31413,-3.6238 124.96811,-0.887 182.89745,18.6085 25.85315,10.7327 35.28742,35.6577 31.63047,59.6702 z"
+       id="path3100-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 154.72685,2634.1653 c -0.75281,-16.8815 23.5425,-63.5857 127.67281,-58.2124 104.1303,5.3735 136.26458,24.6033 138.53857,54.6302 3.59737,47.5016 -51.55881,59.0112 -130.37574,60.8606 -81.25173,1.9065 -131.39206,-14.5794 -135.83564,-57.2784 z"
+       id="path3280"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+       x="289.83295"
+       y="2649.4348"
+       id="text4246-3"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-size:49.67481232000000091px;line-height:1.25000000000000000;stroke:#000000;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:'Rounded M+ 1c Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="297.74017"
+         y="2649.4348"
+         id="tspan4167-3">Xin chào! </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+       x="409.17966"
+       y="2728.4468"
+       id="text4246-5"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         x="409.17966"
+         y="2728.4468"
+         id="tspan873">Cho chú giới</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         x="415.41989"
+         y="2784.6968"
+         id="tspan12031">thiệu mình: </tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.24600291000000007;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4375-4-1-1-1-9);font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580"
+       transform="matrix(0.59080172,-0.79384316,0.23129973,1.313198,478.68923,-967.19282)"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4582"
+         x="787.65729"
+         y="1584.5073"
+         style="font-size:70px;line-height:100%;letter-spacing:4.88345098000000011px;fill:#ffffff;stroke:#ffffff;stroke-width:2.24600291000000007;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:'Rounded M+ 1c Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
+           style="font-size:80.40014648000000363px;line-height:100%;letter-spacing:4.88345098000000011px;stroke:#ffffff;stroke-width:2.24600291000000007;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:'Rounded M+ 1c Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+           id="tspan4617">Bót!</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+       x="591.07983"
+       y="2878.7839"
+       id="text4246"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         x="591.07983"
+         y="2878.7839"
+         id="tspan4230">Tôi là Vị Thần Thàng Công,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         x="597.32007"
+         y="2935.0339"
+         id="tspan459">dịch vụ cô được 24/7!* </tspan></text>
+  </g>
+</svg>

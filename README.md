@@ -28,6 +28,7 @@ License
 * Russian: lagleki, uncle Night
 * Slovak: talime
 * Spanish: TheFaico
+* Vietnamese: Hồ Châu
 
 ## Artwork:
 
