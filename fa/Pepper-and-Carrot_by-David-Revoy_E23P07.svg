@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P07.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4289"
+       x="-0.0076879989"
+       width="1.015376"
+       y="-0.012777842"
+       height="1.0255557">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.69527307"
+         id="feGaussianBlur4291" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9"
+         operator="dilate"
+         radius="2.8999999999999999"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-3"
+       inkscape:label="deevad outline poster">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-5"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2"
+         operator="dilate"
+         radius="3"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-9"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4367"
+       x="-0.0043557761"
+       width="1.0087116"
+       y="-0.020747934"
+       height="1.0414959"
+       inkscape:label="graphic-blending">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59122338"
+         id="feGaussianBlur4369" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4367-7"
+       x="-0.0043557761"
+       width="1.0087116"
+       y="-0.020747934"
+       height="1.0414959"
+       inkscape:label="graphic-blending">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59122338"
+         id="feGaussianBlur4369-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-3-5"
+       inkscape:label="deevad outline poster">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-5"
+         operator="dilate"
+         radius="3"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-3"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-3-3"
+       inkscape:label="deevad outline poster">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-6-1"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-7-1"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-5-4"
+         operator="dilate"
+         radius="3"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-3-4"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4367-7-1"
+       x="-0.0043557761"
+       width="1.0087116"
+       y="-0.020747934"
+       height="1.0414959"
+       inkscape:label="graphic-blending">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59122338"
+         id="feGaussianBlur4369-9-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-3-1"
+       inkscape:label="deevad outline poster">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-6-10"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-7-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-5-8"
+         operator="dilate"
+         radius="3"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-3-1"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-3-9"
+       inkscape:label="deevad outline poster">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-6-7"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-7-9"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-5-1"
+         operator="dilate"
+         radius="3"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-3-6"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4367-2"
+       x="-0.0043557761"
+       width="1.0087116"
+       y="-0.020747934"
+       height="1.0414959"
+       inkscape:label="graphic-blending">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59122338"
+         id="feGaussianBlur4369-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4367-7-9"
+       x="-0.0043557761"
+       width="1.0087116"
+       y="-0.020747934"
+       height="1.0414959"
+       inkscape:label="graphic-blending">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59122338"
+         id="feGaussianBlur4369-9-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4367-7-1-1"
+       x="-0.0043557761"
+       width="1.0087116"
+       y="-0.020747934"
+       height="1.0414959"
+       inkscape:label="graphic-blending">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59122338"
+         id="feGaussianBlur4369-9-2-5" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-3-5-5"
+       inkscape:label="deevad outline poster">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-6-6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-7-0"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-5-7"
+         operator="dilate"
+         radius="3"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-3-60"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-3-3-6"
+       inkscape:label="deevad outline poster">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-6-1-8"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-7-1-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-5-4-5"
+         operator="dilate"
+         radius="3"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-3-4-4"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-3-1-5"
+       inkscape:label="deevad outline poster">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-6-10-4"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-7-7-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-5-8-2"
+         operator="dilate"
+         radius="3"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-3-1-4"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.23000001"
+     inkscape:cx="1213.536"
+     inkscape:cy="1237.5387"
+     inkscape:window-x="1592"
+     inkscape:window-y="124"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="G:\Aslan's Works &amp; Design Projects\Personal Projects\Pepper &amp; Carrot Translation Project\Episode 23\peppercarrot_ep23_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E23P07.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E23P07.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.77037424px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1397.0691,324.50351 c -46.0678,61.54181 -9.2533,153.34018 71.1482,177.13457 57.1452,18.04054 122.4152,22.86149 181.6808,10.50751 56.5641,-12.90175 109.3018,-50.44476 116.1094,-103.22962 13.2185,-41.39877 -11.8636,-85.56841 -56.3761,-103.67528 -64.9428,-28.11682 -140.8594,-19.5677 -210.7562,-16.25672 -36.5229,4.26862 -73.6677,14.09063 -101.8061,35.51954 z"
+       id="path4347"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1765.3654,643.65162 c -95.1268,4.0684 -132.7849,-85.20719 -136.2783,-153.13606 -2.8753,-55.91161 -34.5072,-46.94328 -31.2143,3.23913 3.2928,50.1824 50.0846,172.46208 167.4926,149.89693 z"
+       id="path4360"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:0.5;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#966431;stroke-width:3.78753948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4289)"
+       x="-279.06573"
+       y="1481.1207"
+       id="text4246-36"
+       transform="matrix(0.95619058,-0.57667245,0.54136471,1.0214699,-63.904458,-985.80263)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#966431;stroke-width:3.78753948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4289)"
+         x="-279.06573"
+         y="1481.1207"
+         id="tspan4144-5">50 000 Ko</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1573.6196"
+       y="372.10355"
+       id="text4246"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55px;line-height:100%;font-family:Midan;-inkscape-font-specification:Midan"
+         x="1573.6196"
+         y="372.10355"
+         id="tspan119">شانس یه روزی</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55px;line-height:100%;font-family:Midan;-inkscape-font-specification:Midan"
+         x="1573.6196"
+         y="427.10355"
+         id="tspan4327">هم سراغ ما رو می گیرہ.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.78198898;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580"
+       transform="matrix(1.3668824,-0.09080367,-0.09658625,1.5444176,-334.78905,-679.42416)"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4582"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:124.14481354px;line-height:1.25;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';letter-spacing:4.37618589px;fill:#ffffff;stroke-width:0.78198898">فو!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#241c1c;fill-opacity:1;stroke:#000000;stroke-width:4.32200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="2420.3752"
+       y="3314.4199"
+       id="text4213"
+       transform="matrix(0.95719015,0,-0.32603671,1.0447245,0,0)"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan3562"
+         x="2420.3752"
+         y="3314.4199"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:72.18077087px;line-height:1.25;font-family:Midan;-inkscape-font-specification:'Midan Heavy';stroke:none;stroke-width:4.32200003;stroke-miterlimit:4;stroke-dasharray:none">- پایان -</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367)"
+       x="498.05856"
+       y="277.80478"
+       id="text4246-3"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;line-height:1.25;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="498.05856"
+         y="277.80478"
+         id="tspan4144-7">مشاهیر</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7)"
+       x="1185.9303"
+       y="264.97083"
+       id="text4246-3-3"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:1.25;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1185.9303"
+         y="264.97083"
+         id="tspan4144-7-6">مد روز</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-3-5)"
+       x="1000.265"
+       y="1716.373"
+       id="text4246-3-3-6-2"
+       transform="matrix(0.72899519,0,0,0.71822761,-171.86932,-374.59952)"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110.55963898px;line-height:100%;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1716.373"
+         id="tspan402">موفقیت</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110.55963898px;line-height:100%;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1826.9327"
+         id="tspan4207">زعفران</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-3-3)"
+       x="1000.265"
+       y="1716.373"
+       id="text4246-3-3-6-20"
+       transform="matrix(0.72899519,0,0,0.71822761,530.97358,-372.42561)"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110.55963898px;line-height:100%;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1716.373"
+         id="tspan406">واقعه </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110.55963898px;line-height:100%;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1826.9327"
+         id="tspan4219">زعفران</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-1)"
+       x="1861.097"
+       y="268.02994"
+       id="text4246-3-3-5"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:1.25;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1861.097"
+         y="268.02994"
+         id="tspan4144-7-6-3">دختر زیبا</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-3-1)"
+       x="1000.265"
+       y="1716.373"
+       id="text4246-3-3-6"
+       transform="matrix(0.72899519,0,0,0.71822761,1196.6534,-370.53855)"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:100%;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1716.373"
+         id="tspan412">مخصوص</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:100%;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1812.0223"
+         id="tspan4223">زعفران</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-2)"
+       x="489.36285"
+       y="2236.5002"
+       id="text4246-3-2"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;line-height:1.25;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="489.36285"
+         y="2236.5002"
+         id="tspan4144-7-9">مشاهیر</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-9)"
+       x="1205.4956"
+       y="2223.6665"
+       id="text4246-3-3-9"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:1.25;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1205.4956"
+         y="2223.6665"
+         id="tspan4144-7-6-6">مد روز</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.7;fill:#784421;fill-opacity:1;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4367-7-1-1)"
+       x="1843.7058"
+       y="2228.8994"
+       id="text4246-3-3-5-1"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:1.25;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:start;text-anchor:start;fill:#784421;stroke:#502d16;stroke-width:3.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1843.7058"
+         y="2228.8994"
+         id="tspan4144-7-6-3-8">دختر زیبا</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-3-5-5)"
+       x="1000.265"
+       y="1716.373"
+       id="text4246-3-3-6-2-2"
+       transform="matrix(0.72899519,0,0,0.71822761,-174.04324,1594.9657)"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110.55963898px;line-height:100%;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1716.373"
+         id="tspan4207-0">زندگی پر شور</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110.55963898px;line-height:100%;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1826.9327"
+         id="tspan4459">خانم کبوتر</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-3-3-6)"
+       x="1000.265"
+       y="1716.373"
+       id="text4246-3-3-6-20-5"
+       transform="matrix(0.72899519,0,0,0.71822761,509.58228,1591.7482)"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110.55963898px;line-height:100%;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1716.373"
+         id="tspan406-3">واقعه </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110.55963898px;line-height:100%;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1826.9327"
+         id="tspan4219-4">خانم کبوتر</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-3-1-5)"
+       x="1000.265"
+       y="1716.373"
+       id="text4246-3-3-6-3"
+       transform="matrix(0.72899519,0,0,0.71822761,1227.0882,1592.5049)"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:100%;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1716.373"
+         id="tspan4223-5">مخصوص</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.64933777px;line-height:100%;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.07299328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1000.265"
+         y="1812.0223"
+         id="tspan4535">خانم کبوتر</tspan></text>
+  </g>
+</svg>
