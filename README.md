@@ -47,6 +47,8 @@ License
 
 * Spanish: TheFaico
 
+* Svenska: Mikael Olofsson
+
 * Vietnamese: Hồ Châu
 
 ## Artwork:

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 (unknown)"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E23P06.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.6146715"
+     inkscape:cx="1240.5"
+     inkscape:cy="1198.5248"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <image
+       sodipodi:absref="/home/oet/peppercarrot/peppercarrot_ep23_translation/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E23P06.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E23P06.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles"
+     style="display:inline">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.37445,2081.3114 c 6.50621,-58.4563 40.66382,-95.1613 74.82146,-99.2397 34.15761,-4.0783 367.60105,0 400.13211,9.5161 32.53109,9.5161 79.70113,48.9401 78.07457,78.848 -1.62656,29.9078 4.51925,74.9097 -45.54349,110.1152 -35.58647,25.0253 -240.7299,19.0323 -274.88753,19.0323 -34.15762,0 -128.29019,13.2272 -182.17398,-20.3917 -54.38102,-33.9291 -50.42314,-97.8802 -50.42314,-97.8802 z"
+       id="path4272"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssc" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1347.7006,2089.9481 c -5.1458,62.4102 -44.3507,98.9803 -75.7458,103.8615 -31.3949,4.8811 -346.78649,8.8341 -376.88035,-0.8007 -30.09375,-9.6346 -90.66383,-52.4632 -89.59854,-84.3674 1.06539,-31.9042 1.65656,-78.2317 47.24763,-116.5397 32.40786,-27.2308 231.06256,-24.0495 262.51636,-24.5836 31.4541,-0.5339 137.2686,-0.6654 187.3736,34.3268 50.5673,35.3148 45.0871,88.1031 45.0871,88.1031 z"
+       id="path4272-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssc" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1174.8502,2374.625 c 53.2945,-58.4181 71.3886,-137.4736 64.8491,-196.709 -6.4438,-58.3689 -35.667,-20.5356 -35.667,-20.5356 0,0 -7.6853,2.1941 0,30.2629 7.8496,28.6688 31.1185,75.2067 -29.1821,186.9817 z"
+       id="path4289"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.95183671px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1858.5859,2035.12 c 19.7682,-35.4245 57.0467,-58.9166 96.6257,-69.5015 39.5747,-11.0752 81.3344,-11.9139 122.162,-9.1723 61.8588,-2.1936 125.4332,-7.4303 185.6419,9.8305 26.6497,7.9842 52.6958,20.428 72.5157,39.6232 26.4517,30.0872 36.2679,73.0526 25.974,111.1275 -6.5196,24.8542 -26.074,46.7741 -52.1169,53.8367 -50.2811,13.0852 -102.26,19.2931 -154.2641,20.9878 -45.4202,1.5207 -90.9071,1.0481 -136.3252,0.076 -40.2851,-2.9921 -82.3454,-7.4152 -117.746,-27.6892 -22.7569,-12.8014 -39.2536,-35.2941 -43.2452,-60.4593 -5.3917,-22.5252 -4.7778,-46.2228 0.7781,-68.6597 z"
+       id="path4291"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2064.9587,2367.1575 c 85.5504,-62.8829 112.322,-138.9575 103.3436,-179.057 -8.9784,-40.0995 -31.8164,-49.0097 -31.7823,-17.5409 0.034,31.4688 34.0662,86.4163 -71.5613,196.5979 z"
+       id="path4293"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1952.7708"
+       y="1485.6932"
+       id="text4246-8"
+       transform="matrix(0.76133526,-0.51280204,0.4098681,1.0374126,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-size:41.48361969px;line-height:1.25;fill:#000000;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1952.7708"
+         y="1485.6932"
+         id="tspan4150-8">Tweet!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="2095.8384"
+       y="1367.7908"
+       id="text4246-8-3"
+       transform="matrix(0.8070703,-0.42305912,0.27884184,1.092883,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-size:38.3127861px;line-height:1.25;fill:#000000;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="2095.8384"
+         y="1367.7908"
+         id="tspan4150-8-6">Coo!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="2131.8132"
+       y="1413.1631"
+       id="text4246-8-3-7"
+       transform="matrix(0.8070703,-0.42305912,0.27884184,1.092883,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-size:38.3127861px;line-height:1.25;fill:#000000;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="2131.8132"
+         y="1413.1631"
+         id="tspan4150-8-6-5">Cooo!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1868.1534"
+       y="1659.7085"
+       id="text4246-8-3-3"
+       transform="matrix(0.73266151,-0.54180126,0.44311163,1.0372069,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-size:38.3127861px;line-height:1.25;fill:#000000;stroke:#000000;stroke-width:0.41015574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1868.1534"
+         y="1659.7085"
+         id="tspan4150-8-6-56">Tweet!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="398.71164"
+       y="2048.1582"
+       id="text4246"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="398.71164"
+         y="2048.1582"
+         id="tspan5489">Du ser Carrot, jag tror</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="398.71164"
+         y="2104.4082"
+         id="tspan5507">att det är vad det</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="398.71164"
+         y="2160.6582"
+         id="tspan5511">betyder att växa upp.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1079.5515"
+       y="2046.8223"
+       id="text4246-2"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="1079.5515"
+         y="2046.8223"
+         id="tspan54">Undvik det enkla sättet;</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="1079.5515"
+         y="2103.0723"
+         id="tspan5518">uppskatta värdet av</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="1079.5515"
+         y="2159.3223"
+         id="tspan5520">prestationen…</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="2118.6797"
+       y="2005.0573"
+       id="text4246-2-7"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="2118.6797"
+         y="2005.0573"
+         id="tspan67">…det finns ingen</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="2118.6797"
+         y="2061.3071"
+         id="tspan5527">andledning att vara</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="2118.6797"
+         y="2117.5571"
+         id="tspan5529">avundsjuk på andras</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="2118.6797"
+         y="2173.8071"
+         id="tspan5531">framgångar!</tspan></text>
+  </g>
+</svg>
