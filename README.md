@@ -39,6 +39,8 @@ License
 
 * Norwegian: Thomas Nordstrøm
 
+* Polish: Sölve Svartskogen
+
 * Portuguese: Alexandre E. Almeida
 
 * Russian: lagleki, uncle Night
